@@ -92,7 +92,13 @@ current season, re-merges, and commits `data/current_season.json` +
 - A roster with no `owner_id` (a manager who left without being replaced) is
   excluded from per-person stats, since there's no one to attribute it to —
   it still shows up in league-wide season data, just not on anyone's career
-  page.
+  page. **Known case:** in the 2025 season, roster slot 6 (`gamesjary`'s team
+  in 2022–2024) has `owner_id: null` — that manager's account was removed
+  from the league and no one took over the slot, so 2025 has one fewer
+  attributable manager than the roster count implies. If that person ever
+  rejoins under a (possibly new) Sleeper account, add them to
+  `config/identity-map.json` so future seasons link back to their earlier
+  history.
 - Head-to-head stats only count **regular season** matchups (weeks before
   `playoff_week_start`), not playoff games, to keep the grid a clean
   round-robin comparison.
