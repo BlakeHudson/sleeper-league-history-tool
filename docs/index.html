@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>League History</title>
+    <link rel="stylesheet" href="assets/style.css" />
+  </head>
+  <body>
+    <div class="app">
+      <header class="site-header">
+        <h1>League History</h1>
+        <nav class="site-nav">
+          <a href="index.html" class="active">Leaderboard</a>
+          <a href="head-to-head.html">Head-to-Head</a>
+        </nav>
+      </header>
+
+      <section class="panel">
+        <div id="meta" class="muted">Loading...</div>
+      </section>
+
+      <section class="panel">
+        <h2>All-Time Leaderboard</h2>
+        <div class="table-scroll">
+          <table>
+            <thead>
+              <tr>
+                <th data-key="displayName">Manager</th>
+                <th data-key="career.wins">W</th>
+                <th data-key="career.losses">L</th>
+                <th data-key="career.winPct">Win %</th>
+                <th data-key="career.championships">Titles</th>
+                <th data-key="career.playoffAppearances">Playoffs</th>
+                <th data-key="seasonsPlayed">Seasons</th>
+                <th data-key="career.pointsFor">Pts For</th>
+                <th data-key="career.pointsAgainst">Pts Against</th>
+              </tr>
+            </thead>
+            <tbody id="leaderboardBody"></tbody>
+          </table>
+        </div>
+      </section>
+    </div>
+
+    <footer class="site-footer">Data from the Sleeper API, attributed by manager rather than roster slot.</footer>
+
+    <script src="assets/app.js"></script>
+    <script>
+      let people = [];
+      let sortConfig = { key: "career.championships", direction: "desc" };
+
+      function getValue(obj, path) {
+        return path.split(".").reduce((acc, key) => acc?.[key], obj);
+      }
+
+      function renderMeta(data) {
+        const meta = document.getElementById("meta");
+        const seasons = data.seasonsCovered;
+        meta.textContent = `Covering ${seasons.length} season(s): ${seasons[0]}–${seasons[seasons.length - 1]} • ${data.people.length} managers • last updated ${new Date(data.generatedAt).toLocaleString()}`;
+      }
+
+      function renderLeaderboard() {
+        const body = document.getElementById("leaderboardBody");
+        const sorted = [...people].sort((a, b) => {
+          const direction = sortConfig.direction === "asc" ? 1 : -1;
+          const aValue = getValue(a, sortConfig.key) ?? 0;
+          const bValue = getValue(b, sortConfig.key) ?? 0;
+          if (typeof aValue === "number" && typeof bValue === "number") {
+            return (aValue - bValue) * direction;
+          }
+          return String(aValue).localeCompare(String(bValue)) * direction;
+        });
+
+        body.innerHTML = sorted
+          .map(
+            (person) => `
+              <tr>
+                <td><a class="person-link" href="${personLink(person)}">${escapeHtml(person.displayName)}</a>${person.career.championships ? ` <span class="badge champ">${person.career.championships}x Champ</span>` : ""}</td>
+                <td>${person.career.wins}</td>
+                <td>${person.career.losses}</td>
+                <td>${formatPct(person.career.winPct)}</td>
+                <td>${person.career.championships}</td>
+                <td>${person.career.playoffAppearances}</td>
+                <td>${person.seasonsPlayed}</td>
+                <td>${formatPoints(person.career.pointsFor)}</td>
+                <td>${formatPoints(person.career.pointsAgainst)}</td>
+              </tr>
+            `
+          )
+          .join("");
+      }
+
+      document.querySelector("thead").addEventListener("click", (event) => {
+        const th = event.target.closest("th[data-key]");
+        if (!th) return;
+        const key = th.getAttribute("data-key");
+        if (sortConfig.key === key) {
+          sortConfig.direction = sortConfig.direction === "asc" ? "desc" : "asc";
+        } else {
+          sortConfig = { key, direction: "desc" };
+        }
+        renderLeaderboard();
+      });
+
+      loadHistory()
+        .then((data) => {
+          people = data.people;
+          renderMeta(data);
+          renderLeaderboard();
+        })
+        .catch((error) => {
+          document.getElementById("meta").textContent = `Failed to load history data: ${error.message}`;
+        });
+    </script>
+  </body>
+</html>

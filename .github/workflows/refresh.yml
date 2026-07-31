@@ -1,0 +1,40 @@
+name: Refresh current season data
+
+on:
+  schedule:
+    - cron: "0 13 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: refresh-data
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Fetch current season and rebuild history.json
+        run: npm run build
+
+      - name: Commit and push if data changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/current_season.json docs/data/history.json
+          if git diff --cached --quiet; then
+            echo "No data changes, skipping commit."
+          else
+            git commit -m "Refresh current season data"
+            git push
+          fi

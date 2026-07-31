@@ -1,0 +1,3410 @@
+{
+  "generatedAt": "2026-07-31T19:55:08.232Z",
+  "sourceLeagueId": "1388349774029164544",
+  "seasonsCovered": [
+    "2022",
+    "2023",
+    "2024",
+    "2025",
+    "2026"
+  ],
+  "people": [
+    {
+      "id": "870731702706946048",
+      "displayName": "yenamacarena",
+      "avatar": "f0edbf4278f53f9425db175073df6584",
+      "seasons": [
+        {
+          "season": "2022",
+          "teamName": null,
+          "wins": 10,
+          "losses": 4,
+          "ties": 0,
+          "pointsFor": 1695.14,
+          "pointsAgainst": 1452.28,
+          "placement": 1,
+          "madePlayoffs": true,
+          "isChampion": true,
+          "streak": "2L"
+        },
+        {
+          "season": "2023",
+          "teamName": null,
+          "wins": 10,
+          "losses": 4,
+          "ties": 0,
+          "pointsFor": 1611.68,
+          "pointsAgainst": 1513.46,
+          "placement": 6,
+          "madePlayoffs": true,
+          "isChampion": false,
+          "streak": "1L"
+        },
+        {
+          "season": "2024",
+          "teamName": null,
+          "wins": 8,
+          "losses": 6,
+          "ties": 0,
+          "pointsFor": 1507.46,
+          "pointsAgainst": 1488.62,
+          "placement": 4,
+          "madePlayoffs": true,
+          "isChampion": false,
+          "streak": "1W"
+        }
+      ],
+      "career": {
+        "wins": 28,
+        "losses": 14,
+        "ties": 0,
+        "pointsFor": 4814.28,
+        "pointsAgainst": 4454.36,
+        "championships": 1,
+        "playoffAppearances": 3,
+        "gamesPlayed": 42,
+        "winPct": 0.6667
+      },
+      "seasonsPlayed": 3,
+      "bestSeason": {
+        "season": "2022",
+        "teamName": null,
+        "wins": 10,
+        "losses": 4,
+        "ties": 0,
+        "pointsFor": 1695.14,
+        "pointsAgainst": 1452.28,
+        "placement": 1,
+        "madePlayoffs": true,
+        "isChampion": true,
+        "streak": "2L"
+      },
+      "worstSeason": {
+        "season": "2024",
+        "teamName": null,
+        "wins": 8,
+        "losses": 6,
+        "ties": 0,
+        "pointsFor": 1507.46,
+        "pointsAgainst": 1488.62,
+        "placement": 4,
+        "madePlayoffs": true,
+        "isChampion": false,
+        "streak": "1W"
+      },
+      "mostRecentSeason": {
+        "season": "2024",
+        "teamName": null,
+        "wins": 8,
+        "losses": 6,
+        "ties": 0,
+        "pointsFor": 1507.46,
+        "pointsAgainst": 1488.62,
+        "placement": 4,
+        "madePlayoffs": true,
+        "isChampion": false,
+        "streak": "1W"
+      },
+      "currentStreak": {
+        "season": "2024",
+        "value": "1W"
+      }
+    },
+    {
+      "id": "1128117893658513408",
+      "displayName": "ChuckBlazer",
+      "avatar": "17481f42709742e8c6c649e195e52dec",
+      "seasons": [
+        {
+          "season": "2024",
+          "teamName": "Worst of the Best",
+          "wins": 8,
+          "losses": 6,
+          "ties": 0,
+          "pointsFor": 1761.34,
+          "pointsAgainst": 1627.8,
+          "placement": 6,
+          "madePlayoffs": true,
+          "isChampion": false,
+          "streak": "3W"
+        },
+        {
+          "season": "2025",
+          "teamName": "Flex Appeal",
+          "wins": 10,
+          "losses": 4,
+          "ties": 0,
+          "pointsFor": 1768.52,
+          "pointsAgainst": 1489.16,
+          "placement": 1,
+          "madePlayoffs": true,
+          "isChampion": true,
+          "streak": "2L"
+        },
+        {
+          "season": "2026",
+          "teamName": "Flex Appeal",
+          "wins": 0,
+          "losses": 0,
+          "ties": 0,
+          "pointsFor": 0,
+          "pointsAgainst": 0,
+          "placement": null,
+          "madePlayoffs": false,
+          "isChampion": false,
+          "streak": null
+        }
+      ],
+      "career": {
+        "wins": 18,
+        "losses": 10,
+        "ties": 0,
+        "pointsFor": 3529.86,
+        "pointsAgainst": 3116.96,
+        "championships": 1,
+        "playoffAppearances": 2,
+        "gamesPlayed": 28,
+        "winPct": 0.6429
+      },
+      "seasonsPlayed": 3,
+      "bestSeason": {
+        "season": "2025",
+        "teamName": "Flex Appeal",
+        "wins": 10,
+        "losses": 4,
+        "ties": 0,
+        "pointsFor": 1768.52,
+        "pointsAgainst": 1489.16,
+        "placement": 1,
+        "madePlayoffs": true,
+        "isChampion": true,
+        "streak": "2L"
+      },
+      "worstSeason": {
+        "season": "2026",
+        "teamName": "Flex Appeal",
+        "wins": 0,
+        "losses": 0,
+        "ties": 0,
+        "pointsFor": 0,
+        "pointsAgainst": 0,
+        "placement": null,
+        "madePlayoffs": false,
+        "isChampion": false,
+        "streak": null
+      },
+      "mostRecentSeason": {
+        "season": "2026",
+        "teamName": "Flex Appeal",
+        "wins": 0,
+        "losses": 0,
+        "ties": 0,
+        "pointsFor": 0,
+        "pointsAgainst": 0,
+        "placement": null,
+        "madePlayoffs": false,
+        "isChampion": false,
+        "streak": null
+      },
+      "currentStreak": {
+        "season": "2026",
+        "value": null
+      }
+    },
+    {
+      "id": "868708583389454336",
+      "displayName": "GeauxGibbs",
+      "avatar": "4f4090e5e9c3941414db40a871e3e909",
+      "seasons": [
+        {
+          "season": "2022",
+          "teamName": null,
+          "wins": 8,
+          "losses": 6,
+          "ties": 0,
+          "pointsFor": 1577.6,
+          "pointsAgainst": 1456.92,
+          "placement": 6,
+          "madePlayoffs": true,
+          "isChampion": false,
+          "streak": "2W"
+        },
+        {
+          "season": "2023",
+          "teamName": "Captain Kamaraca",
+          "wins": 1,
+          "losses": 13,
+          "ties": 0,
+          "pointsFor": 1481.22,
+          "pointsAgainst": 1829.92,
+          "placement": 12,
+          "madePlayoffs": false,
+          "isChampion": false,
+          "streak": "8L"
+        },
+        {
+          "season": "2024",
+          "teamName": "Captain Kamaraca",
+          "wins": 10,
+          "losses": 4,
+          "ties": 0,
+          "pointsFor": 1820.64,
+          "pointsAgainst": 1588.5,
+          "placement": 1,
+          "madePlayoffs": true,
+          "isChampion": true,
+          "streak": "5W"
+        },
+        {
+          "season": "2025",
+          "teamName": "Captain Kamaraca",
+          "wins": 7,
+          "losses": 7,
+          "ties": 0,
+          "pointsFor": 1599.88,
+          "pointsAgainst": 1538.9,
+          "placement": 6,
+          "madePlayoffs": true,
+          "isChampion": false,
+          "streak": "1L"
+        },
+        {
+          "season": "2026",
+          "teamName": "Captain Kamaraca",
+          "wins": 0,
+          "losses": 0,
+          "ties": 0,
+          "pointsFor": 0,
+          "pointsAgainst": 0,
+          "placement": null,
+          "madePlayoffs": false,
+          "isChampion": false,
+          "streak": null
+        }
+      ],
+      "career": {
+        "wins": 26,
+        "losses": 30,
+        "ties": 0,
+        "pointsFor": 6479.34,
+        "pointsAgainst": 6414.24,
+        "championships": 1,
+        "playoffAppearances": 3,
+        "gamesPlayed": 56,
+        "winPct": 0.4643
+      },
+      "seasonsPlayed": 5,
+      "bestSeason": {
+        "season": "2024",
+        "teamName": "Captain Kamaraca",
+        "wins": 10,
+        "losses": 4,
+        "ties": 0,
+        "pointsFor": 1820.64,
+        "pointsAgainst": 1588.5,
+        "placement": 1,
+        "madePlayoffs": true,
+        "isChampion": true,
+        "streak": "5W"
+      },
+      "worstSeason": {
+        "season": "2026",
+        "teamName": "Captain Kamaraca",
+        "wins": 0,
+        "losses": 0,
+        "ties": 0,
+        "pointsFor": 0,
+        "pointsAgainst": 0,
+        "placement": null,
+        "madePlayoffs": false,
+        "isChampion": false,
+        "streak": null
+      },
+      "mostRecentSeason": {
+        "season": "2026",
+        "teamName": "Captain Kamaraca",
+        "wins": 0,
+        "losses": 0,
+        "ties": 0,
+        "pointsFor": 0,
+        "pointsAgainst": 0,
+        "placement": null,
+        "madePlayoffs": false,
+        "isChampion": false,
+        "streak": null
+      },
+      "currentStreak": {
+        "season": "2026",
+        "value": null
+      }
+    },
+    {
+      "id": "992254609848696832",
+      "displayName": "kayla12345",
+      "avatar": "82aec8e811b839b8ec25d7b458afd57b",
+      "seasons": [
+        {
+          "season": "2023",
+          "teamName": "Esposa de Muerte Peluda",
+          "wins": 8,
+          "losses": 6,
+          "ties": 0,
+          "pointsFor": 1581.7,
+          "pointsAgainst": 1514.44,
+          "placement": 1,
+          "madePlayoffs": true,
+          "isChampion": true,
+          "streak": "1L"
+        },
+        {
+          "season": "2024",
+          "teamName": "Esposa de Muerte Peluda",
+          "wins": 7,
+          "losses": 7,
+          "ties": 0,
+          "pointsFor": 1717.72,
+          "pointsAgainst": 1597.7,
+          "placement": 2,
+          "madePlayoffs": true,
+          "isChampion": false,
+          "streak": "2L"
+        },
+        {
+          "season": "2025",
+          "teamName": "Esposa de Muerte Peluda",
+          "wins": 4,
+          "losses": 10,
+          "ties": 0,
+          "pointsFor": 1469.4,
+          "pointsAgainst": 1474.78,
+          "placement": 9,
+          "madePlayoffs": false,
+          "isChampion": false,
+          "streak": "1W"
+        },
+        {
+          "season": "2026",
+          "teamName": "Esposa de Muerte Peluda",
+          "wins": 0,
+          "losses": 0,
+          "ties": 0,
+          "pointsFor": 0,
+          "pointsAgainst": 0,
+          "placement": null,
+          "madePlayoffs": false,
+          "isChampion": false,
+          "streak": null
+        }
+      ],
+      "career": {
+        "wins": 19,
+        "losses": 23,
+        "ties": 0,
+        "pointsFor": 4768.82,
+        "pointsAgainst": 4586.92,
+        "championships": 1,
+        "playoffAppearances": 2,
+        "gamesPlayed": 42,
+        "winPct": 0.4524
+      },
+      "seasonsPlayed": 4,
+      "bestSeason": {
+        "season": "2023",
+        "teamName": "Esposa de Muerte Peluda",
+        "wins": 8,
+        "losses": 6,
+        "ties": 0,
+        "pointsFor": 1581.7,
+        "pointsAgainst": 1514.44,
+        "placement": 1,
+        "madePlayoffs": true,
+        "isChampion": true,
+        "streak": "1L"
+      },
+      "worstSeason": {
+        "season": "2026",
+        "teamName": "Esposa de Muerte Peluda",
+        "wins": 0,
+        "losses": 0,
+        "ties": 0,
+        "pointsFor": 0,
+        "pointsAgainst": 0,
+        "placement": null,
+        "madePlayoffs": false,
+        "isChampion": false,
+        "streak": null
+      },
+      "mostRecentSeason": {
+        "season": "2026",
+        "teamName": "Esposa de Muerte Peluda",
+        "wins": 0,
+        "losses": 0,
+        "ties": 0,
+        "pointsFor": 0,
+        "pointsAgainst": 0,
+        "placement": null,
+        "madePlayoffs": false,
+        "isChampion": false,
+        "streak": null
+      },
+      "currentStreak": {
+        "season": "2026",
+        "value": null
+      }
+    },
+    {
+      "id": "721922093368827904",
+      "displayName": "Buzzdilla",
+      "avatar": "1d76df4a26b1f854d4fd1347d5529729",
+      "seasons": [
+        {
+          "season": "2022",
+          "teamName": "Wet with Sweat",
+          "wins": 14,
+          "losses": 0,
+          "ties": 0,
+          "pointsFor": 1815.94,
+          "pointsAgainst": 1448.36,
+          "placement": 2,
+          "madePlayoffs": true,
+          "isChampion": false,
+          "streak": "14W"
+        },
+        {
+          "season": "2023",
+          "teamName": "Wet with Sweat",
+          "wins": 10,
+          "losses": 4,
+          "ties": 0,
+          "pointsFor": 1454.32,
+          "pointsAgainst": 1470.2,
+          "placement": 5,
+          "madePlayoffs": true,
+          "isChampion": false,
+          "streak": "1W"
+        },
+        {
+          "season": "2024",
+          "teamName": "Wet with Sweat",
+          "wins": 10,
+          "losses": 4,
+          "ties": 0,
+          "pointsFor": 1803.56,
+          "pointsAgainst": 1620.8,
+          "placement": 3,
+          "madePlayoffs": true,
+          "isChampion": false,
+          "streak": "1L"
+        },
+        {
+          "season": "2025",
+          "teamName": "Wet with Sweat",
+          "wins": 10,
+          "losses": 4,
+          "ties": 0,
+          "pointsFor": 1733.98,
+          "pointsAgainst": 1413.1,
+          "placement": 3,
+          "madePlayoffs": true,
+          "isChampion": false,
+          "streak": "5W"
+        },
+        {
+          "season": "2026",
+          "teamName": "Wet with Sweat",
+          "wins": 0,
+          "losses": 0,
+          "ties": 0,
+          "pointsFor": 0,
+          "pointsAgainst": 0,
+          "placement": null,
+          "madePlayoffs": true,
+          "isChampion": false,
+          "streak": null
+        }
+      ],
+      "career": {
+        "wins": 44,
+        "losses": 12,
+        "ties": 0,
+        "pointsFor": 6807.8,
+        "pointsAgainst": 5952.46,
+        "championships": 0,
+        "playoffAppearances": 5,
+        "gamesPlayed": 56,
+        "winPct": 0.7857
+      },
+      "seasonsPlayed": 5,
+      "bestSeason": {
+        "season": "2022",
+        "teamName": "Wet with Sweat",
+        "wins": 14,
+        "losses": 0,
+        "ties": 0,
+        "pointsFor": 1815.94,
+        "pointsAgainst": 1448.36,
+        "placement": 2,
+        "madePlayoffs": true,
+        "isChampion": false,
+        "streak": "14W"
+      },
+      "worstSeason": {
+        "season": "2026",
+        "teamName": "Wet with Sweat",
+        "wins": 0,
+        "losses": 0,
+        "ties": 0,
+        "pointsFor": 0,
+        "pointsAgainst": 0,
+        "placement": null,
+        "madePlayoffs": true,
+        "isChampion": false,
+        "streak": null
+      },
+      "mostRecentSeason": {
+        "season": "2026",
+        "teamName": "Wet with Sweat",
+        "wins": 0,
+        "losses": 0,
+        "ties": 0,
+        "pointsFor": 0,
+        "pointsAgainst": 0,
+        "placement": null,
+        "madePlayoffs": true,
+        "isChampion": false,
+        "streak": null
+      },
+      "currentStreak": {
+        "season": "2026",
+        "value": null
+      }
+    },
+    {
+      "id": "1026229879408320512",
+      "displayName": "MasMelas",
+      "avatar": "15d7cf259bc30eab8f6120f45f652fb6",
+      "seasons": [
+        {
+          "season": "2025",
+          "teamName": "Good News Goofs",
+          "wins": 9,
+          "losses": 5,
+          "ties": 0,
+          "pointsFor": 1591.28,
+          "pointsAgainst": 1579.1,
+          "placement": 4,
+          "madePlayoffs": true,
+          "isChampion": false,
+          "streak": "2W"
+        },
+        {
+          "season": "2026",
+          "teamName": "Good News Goofs",
+          "wins": 0,
+          "losses": 0,
+          "ties": 0,
+          "pointsFor": 0,
+          "pointsAgainst": 0,
+          "placement": null,
+          "madePlayoffs": false,
+          "isChampion": false,
+          "streak": null
+        }
+      ],
+      "career": {
+        "wins": 9,
+        "losses": 5,
+        "ties": 0,
+        "pointsFor": 1591.28,
+        "pointsAgainst": 1579.1,
+        "championships": 0,
+        "playoffAppearances": 1,
+        "gamesPlayed": 14,
+        "winPct": 0.6429
+      },
+      "seasonsPlayed": 2,
+      "bestSeason": {
+        "season": "2025",
+        "teamName": "Good News Goofs",
+        "wins": 9,
+        "losses": 5,
+        "ties": 0,
+        "pointsFor": 1591.28,
+        "pointsAgainst": 1579.1,
+        "placement": 4,
+        "madePlayoffs": true,
+        "isChampion": false,
+        "streak": "2W"
+      },
+      "worstSeason": {
+        "season": "2026",
+        "teamName": "Good News Goofs",
+        "wins": 0,
+        "losses": 0,
+        "ties": 0,
+        "pointsFor": 0,
+        "pointsAgainst": 0,
+        "placement": null,
+        "madePlayoffs": false,
+        "isChampion": false,
+        "streak": null
+      },
+      "mostRecentSeason": {
+        "season": "2026",
+        "teamName": "Good News Goofs",
+        "wins": 0,
+        "losses": 0,
+        "ties": 0,
+        "pointsFor": 0,
+        "pointsAgainst": 0,
+        "placement": null,
+        "madePlayoffs": false,
+        "isChampion": false,
+        "streak": null
+      },
+      "currentStreak": {
+        "season": "2026",
+        "value": null
+      }
+    },
+    {
+      "id": "868907495270322176",
+      "displayName": "LaMuertePeluda",
+      "avatar": "f9dbe8fe67c08503a11b077528bbad64",
+      "seasons": [
+        {
+          "season": "2022",
+          "teamName": "La Muerte Peluda",
+          "wins": 7,
+          "losses": 7,
+          "ties": 0,
+          "pointsFor": 1656.98,
+          "pointsAgainst": 1535.94,
+          "placement": 4,
+          "madePlayoffs": true,
+          "isChampion": false,
+          "streak": "3L"
+        },
+        {
+          "season": "2023",
+          "teamName": "La Muerte Peluda",
+          "wins": 11,
+          "losses": 3,
+          "ties": 0,
+          "pointsFor": 1737.66,
+          "pointsAgainst": 1526.22,
+          "placement": 4,
+          "madePlayoffs": true,
+          "isChampion": false,
+          "streak": "3W"
+        },
+        {
+          "season": "2024",
+          "teamName": "La Muerte Peluda",
+          "wins": 5,
+          "losses": 9,
+          "ties": 0,
+          "pointsFor": 1632.44,
+          "pointsAgainst": 1632.58,
+          "placement": 8,
+          "madePlayoffs": false,
+          "isChampion": false,
+          "streak": "2L"
+        },
+        {
+          "season": "2025",
+          "teamName": "La Muerte Peluda",
+          "wins": 7,
+          "losses": 7,
+          "ties": 0,
+          "pointsFor": 1512.04,
+          "pointsAgainst": 1538.52,
+          "placement": 10,
+          "madePlayoffs": false,
+          "isChampion": false,
+          "streak": "4L"
+        },
+        {
+          "season": "2026",
+          "teamName": "La Muerte Peluda",
+          "wins": 0,
+          "losses": 0,
+          "ties": 0,
+          "pointsFor": 0,
+          "pointsAgainst": 0,
+          "placement": null,
+          "madePlayoffs": true,
+          "isChampion": false,
+          "streak": null
+        }
+      ],
+      "career": {
+        "wins": 30,
+        "losses": 26,
+        "ties": 0,
+        "pointsFor": 6539.12,
+        "pointsAgainst": 6233.26,
+        "championships": 0,
+        "playoffAppearances": 3,
+        "gamesPlayed": 56,
+        "winPct": 0.5357
+      },
+      "seasonsPlayed": 5,
+      "bestSeason": {
+        "season": "2023",
+        "teamName": "La Muerte Peluda",
+        "wins": 11,
+        "losses": 3,
+        "ties": 0,
+        "pointsFor": 1737.66,
+        "pointsAgainst": 1526.22,
+        "placement": 4,
+        "madePlayoffs": true,
+        "isChampion": false,
+        "streak": "3W"
+      },
+      "worstSeason": {
+        "season": "2026",
+        "teamName": "La Muerte Peluda",
+        "wins": 0,
+        "losses": 0,
+        "ties": 0,
+        "pointsFor": 0,
+        "pointsAgainst": 0,
+        "placement": null,
+        "madePlayoffs": true,
+        "isChampion": false,
+        "streak": null
+      },
+      "mostRecentSeason": {
+        "season": "2026",
+        "teamName": "La Muerte Peluda",
+        "wins": 0,
+        "losses": 0,
+        "ties": 0,
+        "pointsFor": 0,
+        "pointsAgainst": 0,
+        "placement": null,
+        "madePlayoffs": true,
+        "isChampion": false,
+        "streak": null
+      },
+      "currentStreak": {
+        "season": "2026",
+        "value": null
+      }
+    },
+    {
+      "id": "869290352429924352",
+      "displayName": "spena",
+      "avatar": "82aec8e811b839b8ec25d7b458afd57b",
+      "seasons": [
+        {
+          "season": "2022",
+          "teamName": null,
+          "wins": 6,
+          "losses": 8,
+          "ties": 0,
+          "pointsFor": 1602.06,
+          "pointsAgainst": 1548.14,
+          "placement": 5,
+          "madePlayoffs": true,
+          "isChampion": false,
+          "streak": "3L"
+        },
+        {
+          "season": "2023",
+          "teamName": null,
+          "wins": 10,
+          "losses": 4,
+          "ties": 0,
+          "pointsFor": 1614.78,
+          "pointsAgainst": 1513.28,
+          "placement": 3,
+          "madePlayoffs": true,
+          "isChampion": false,
+          "streak": "2W"
+        },
+        {
+          "season": "2024",
+          "teamName": null,
+          "wins": 8,
+          "losses": 6,
+          "ties": 0,
+          "pointsFor": 1743.34,
+          "pointsAgainst": 1657.34,
+          "placement": 5,
+          "madePlayoffs": true,
+          "isChampion": false,
+          "streak": "2W"
+        },
+        {
+          "season": "2025",
+          "teamName": null,
+          "wins": 4,
+          "losses": 10,
+          "ties": 0,
+          "pointsFor": 1475.96,
+          "pointsAgainst": 1779.54,
+          "placement": 12,
+          "madePlayoffs": false,
+          "isChampion": false,
+          "streak": "1L"
+        },
+        {
+          "season": "2026",
+          "teamName": null,
+          "wins": 0,
+          "losses": 0,
+          "ties": 0,
+          "pointsFor": 0,
+          "pointsAgainst": 0,
+          "placement": null,
+          "madePlayoffs": true,
+          "isChampion": false,
+          "streak": null
+        }
+      ],
+      "career": {
+        "wins": 28,
+        "losses": 28,
+        "ties": 0,
+        "pointsFor": 6436.14,
+        "pointsAgainst": 6498.3,
+        "championships": 0,
+        "playoffAppearances": 4,
+        "gamesPlayed": 56,
+        "winPct": 0.5
+      },
+      "seasonsPlayed": 5,
+      "bestSeason": {
+        "season": "2023",
+        "teamName": null,
+        "wins": 10,
+        "losses": 4,
+        "ties": 0,
+        "pointsFor": 1614.78,
+        "pointsAgainst": 1513.28,
+        "placement": 3,
+        "madePlayoffs": true,
+        "isChampion": false,
+        "streak": "2W"
+      },
+      "worstSeason": {
+        "season": "2026",
+        "teamName": null,
+        "wins": 0,
+        "losses": 0,
+        "ties": 0,
+        "pointsFor": 0,
+        "pointsAgainst": 0,
+        "placement": null,
+        "madePlayoffs": true,
+        "isChampion": false,
+        "streak": null
+      },
+      "mostRecentSeason": {
+        "season": "2026",
+        "teamName": null,
+        "wins": 0,
+        "losses": 0,
+        "ties": 0,
+        "pointsFor": 0,
+        "pointsAgainst": 0,
+        "placement": null,
+        "madePlayoffs": true,
+        "isChampion": false,
+        "streak": null
+      },
+      "currentStreak": {
+        "season": "2026",
+        "value": null
+      }
+    },
+    {
+      "id": "864949273853308928",
+      "displayName": "SourBoBread",
+      "avatar": "b3338675f635c2c1f42b469621d38ec6",
+      "seasons": [
+        {
+          "season": "2022",
+          "teamName": "SourBoBread",
+          "wins": 9,
+          "losses": 5,
+          "ties": 0,
+          "pointsFor": 1511.72,
+          "pointsAgainst": 1609.34,
+          "placement": 3,
+          "madePlayoffs": true,
+          "isChampion": false,
+          "streak": "4W"
+        },
+        {
+          "season": "2023",
+          "teamName": "SourBoBread",
+          "wins": 5,
+          "losses": 9,
+          "ties": 0,
+          "pointsFor": 1632.4,
+          "pointsAgainst": 1597.64,
+          "placement": 8,
+          "madePlayoffs": false,
+          "isChampion": false,
+          "streak": "1W"
+        },
+        {
+          "season": "2024",
+          "teamName": "SourBoBread",
+          "wins": 7,
+          "losses": 7,
+          "ties": 0,
+          "pointsFor": 1574.14,
+          "pointsAgainst": 1588.76,
+          "placement": 9,
+          "madePlayoffs": false,
+          "isChampion": false,
+          "streak": "1W"
+        }
+      ],
+      "career": {
+        "wins": 21,
+        "losses": 21,
+        "ties": 0,
+        "pointsFor": 4718.26,
+        "pointsAgainst": 4795.74,
+        "championships": 0,
+        "playoffAppearances": 1,
+        "gamesPlayed": 42,
+        "winPct": 0.5
+      },
+      "seasonsPlayed": 3,
+      "bestSeason": {
+        "season": "2022",
+        "teamName": "SourBoBread",
+        "wins": 9,
+        "losses": 5,
+        "ties": 0,
+        "pointsFor": 1511.72,
+        "pointsAgainst": 1609.34,
+        "placement": 3,
+        "madePlayoffs": true,
+        "isChampion": false,
+        "streak": "4W"
+      },
+      "worstSeason": {
+        "season": "2023",
+        "teamName": "SourBoBread",
+        "wins": 5,
+        "losses": 9,
+        "ties": 0,
+        "pointsFor": 1632.4,
+        "pointsAgainst": 1597.64,
+        "placement": 8,
+        "madePlayoffs": false,
+        "isChampion": false,
+        "streak": "1W"
+      },
+      "mostRecentSeason": {
+        "season": "2024",
+        "teamName": "SourBoBread",
+        "wins": 7,
+        "losses": 7,
+        "ties": 0,
+        "pointsFor": 1574.14,
+        "pointsAgainst": 1588.76,
+        "placement": 9,
+        "madePlayoffs": false,
+        "isChampion": false,
+        "streak": "1W"
+      },
+      "currentStreak": {
+        "season": "2024",
+        "value": "1W"
+      }
+    },
+    {
+      "id": "326033318967533568",
+      "displayName": "Pierson",
+      "avatar": "b8e272b0f56dc7b92539597d394429cd",
+      "seasons": [
+        {
+          "season": "2023",
+          "teamName": null,
+          "wins": 7,
+          "losses": 7,
+          "ties": 0,
+          "pointsFor": 1633.88,
+          "pointsAgainst": 1670.12,
+          "placement": 10,
+          "madePlayoffs": false,
+          "isChampion": false,
+          "streak": "1L"
+        }
+      ],
+      "career": {
+        "wins": 7,
+        "losses": 7,
+        "ties": 0,
+        "pointsFor": 1633.88,
+        "pointsAgainst": 1670.12,
+        "championships": 0,
+        "playoffAppearances": 0,
+        "gamesPlayed": 14,
+        "winPct": 0.5
+      },
+      "seasonsPlayed": 1,
+      "bestSeason": {
+        "season": "2023",
+        "teamName": null,
+        "wins": 7,
+        "losses": 7,
+        "ties": 0,
+        "pointsFor": 1633.88,
+        "pointsAgainst": 1670.12,
+        "placement": 10,
+        "madePlayoffs": false,
+        "isChampion": false,
+        "streak": "1L"
+      },
+      "worstSeason": {
+        "season": "2023",
+        "teamName": null,
+        "wins": 7,
+        "losses": 7,
+        "ties": 0,
+        "pointsFor": 1633.88,
+        "pointsAgainst": 1670.12,
+        "placement": 10,
+        "madePlayoffs": false,
+        "isChampion": false,
+        "streak": "1L"
+      },
+      "mostRecentSeason": {
+        "season": "2023",
+        "teamName": null,
+        "wins": 7,
+        "losses": 7,
+        "ties": 0,
+        "pointsFor": 1633.88,
+        "pointsAgainst": 1670.12,
+        "placement": 10,
+        "madePlayoffs": false,
+        "isChampion": false,
+        "streak": "1L"
+      },
+      "currentStreak": {
+        "season": "2023",
+        "value": "1L"
+      }
+    },
+    {
+      "id": "1130917842167361536",
+      "displayName": "BradleyFF",
+      "avatar": "7cfb07c63bf701045688dbca6ac2ac3d",
+      "seasons": [
+        {
+          "season": "2024",
+          "teamName": null,
+          "wins": 7,
+          "losses": 7,
+          "ties": 0,
+          "pointsFor": 1553.2,
+          "pointsAgainst": 1638.56,
+          "placement": 10,
+          "madePlayoffs": false,
+          "isChampion": false,
+          "streak": "3W"
+        }
+      ],
+      "career": {
+        "wins": 7,
+        "losses": 7,
+        "ties": 0,
+        "pointsFor": 1553.2,
+        "pointsAgainst": 1638.56,
+        "championships": 0,
+        "playoffAppearances": 0,
+        "gamesPlayed": 14,
+        "winPct": 0.5
+      },
+      "seasonsPlayed": 1,
+      "bestSeason": {
+        "season": "2024",
+        "teamName": null,
+        "wins": 7,
+        "losses": 7,
+        "ties": 0,
+        "pointsFor": 1553.2,
+        "pointsAgainst": 1638.56,
+        "placement": 10,
+        "madePlayoffs": false,
+        "isChampion": false,
+        "streak": "3W"
+      },
+      "worstSeason": {
+        "season": "2024",
+        "teamName": null,
+        "wins": 7,
+        "losses": 7,
+        "ties": 0,
+        "pointsFor": 1553.2,
+        "pointsAgainst": 1638.56,
+        "placement": 10,
+        "madePlayoffs": false,
+        "isChampion": false,
+        "streak": "3W"
+      },
+      "mostRecentSeason": {
+        "season": "2024",
+        "teamName": null,
+        "wins": 7,
+        "losses": 7,
+        "ties": 0,
+        "pointsFor": 1553.2,
+        "pointsAgainst": 1638.56,
+        "placement": 10,
+        "madePlayoffs": false,
+        "isChampion": false,
+        "streak": "3W"
+      },
+      "currentStreak": {
+        "season": "2024",
+        "value": "3W"
+      }
+    },
+    {
+      "id": "721963492252385280",
+      "displayName": "wagner81",
+      "avatar": "7589993c9e3945b347e5162a7d6ff4b9",
+      "seasons": [
+        {
+          "season": "2025",
+          "teamName": "Wagner’s Warriors",
+          "wins": 7,
+          "losses": 7,
+          "ties": 0,
+          "pointsFor": 1562.06,
+          "pointsAgainst": 1641.34,
+          "placement": 8,
+          "madePlayoffs": false,
+          "isChampion": false,
+          "streak": "1W"
+        },
+        {
+          "season": "2026",
+          "teamName": "Wagner’s Warriors",
+          "wins": 0,
+          "losses": 0,
+          "ties": 0,
+          "pointsFor": 0,
+          "pointsAgainst": 0,
+          "placement": null,
+          "madePlayoffs": true,
+          "isChampion": false,
+          "streak": null
+        }
+      ],
+      "career": {
+        "wins": 7,
+        "losses": 7,
+        "ties": 0,
+        "pointsFor": 1562.06,
+        "pointsAgainst": 1641.34,
+        "championships": 0,
+        "playoffAppearances": 1,
+        "gamesPlayed": 14,
+        "winPct": 0.5
+      },
+      "seasonsPlayed": 2,
+      "bestSeason": {
+        "season": "2025",
+        "teamName": "Wagner’s Warriors",
+        "wins": 7,
+        "losses": 7,
+        "ties": 0,
+        "pointsFor": 1562.06,
+        "pointsAgainst": 1641.34,
+        "placement": 8,
+        "madePlayoffs": false,
+        "isChampion": false,
+        "streak": "1W"
+      },
+      "worstSeason": {
+        "season": "2026",
+        "teamName": "Wagner’s Warriors",
+        "wins": 0,
+        "losses": 0,
+        "ties": 0,
+        "pointsFor": 0,
+        "pointsAgainst": 0,
+        "placement": null,
+        "madePlayoffs": true,
+        "isChampion": false,
+        "streak": null
+      },
+      "mostRecentSeason": {
+        "season": "2026",
+        "teamName": "Wagner’s Warriors",
+        "wins": 0,
+        "losses": 0,
+        "ties": 0,
+        "pointsFor": 0,
+        "pointsAgainst": 0,
+        "placement": null,
+        "madePlayoffs": true,
+        "isChampion": false,
+        "streak": null
+      },
+      "currentStreak": {
+        "season": "2026",
+        "value": null
+      }
+    },
+    {
+      "id": "868334811373277184",
+      "displayName": "Izzy3608",
+      "avatar": "eb5c782b22cf068568245a49005b567e",
+      "seasons": [
+        {
+          "season": "2022",
+          "teamName": "Dakstreet boys ",
+          "wins": 2,
+          "losses": 12,
+          "ties": 0,
+          "pointsFor": 1294.52,
+          "pointsAgainst": 1637.9,
+          "placement": 10,
+          "madePlayoffs": false,
+          "isChampion": false,
+          "streak": "1W"
+        },
+        {
+          "season": "2023",
+          "teamName": "Run CMC",
+          "wins": 8,
+          "losses": 6,
+          "ties": 0,
+          "pointsFor": 1688.78,
+          "pointsAgainst": 1581.32,
+          "placement": 2,
+          "madePlayoffs": true,
+          "isChampion": false,
+          "streak": "1W"
+        },
+        {
+          "season": "2024",
+          "teamName": "Big Chubb energy ",
+          "wins": 6,
+          "losses": 8,
+          "ties": 0,
+          "pointsFor": 1515.44,
+          "pointsAgainst": 1565.68,
+          "placement": 12,
+          "madePlayoffs": false,
+          "isChampion": false,
+          "streak": "1L"
+        },
+        {
+          "season": "2025",
+          "teamName": "Cookin’ with CMC",
+          "wins": 10,
+          "losses": 4,
+          "ties": 0,
+          "pointsFor": 1708.18,
+          "pointsAgainst": 1547.36,
+          "placement": 2,
+          "madePlayoffs": true,
+          "isChampion": false,
+          "streak": "1L"
+        },
+        {
+          "season": "2026",
+          "teamName": "Cookin’ with CMC",
+          "wins": 0,
+          "losses": 0,
+          "ties": 0,
+          "pointsFor": 0,
+          "pointsAgainst": 0,
+          "placement": null,
+          "madePlayoffs": false,
+          "isChampion": false,
+          "streak": null
+        }
+      ],
+      "career": {
+        "wins": 26,
+        "losses": 30,
+        "ties": 0,
+        "pointsFor": 6206.92,
+        "pointsAgainst": 6332.26,
+        "championships": 0,
+        "playoffAppearances": 2,
+        "gamesPlayed": 56,
+        "winPct": 0.4643
+      },
+      "seasonsPlayed": 5,
+      "bestSeason": {
+        "season": "2025",
+        "teamName": "Cookin’ with CMC",
+        "wins": 10,
+        "losses": 4,
+        "ties": 0,
+        "pointsFor": 1708.18,
+        "pointsAgainst": 1547.36,
+        "placement": 2,
+        "madePlayoffs": true,
+        "isChampion": false,
+        "streak": "1L"
+      },
+      "worstSeason": {
+        "season": "2026",
+        "teamName": "Cookin’ with CMC",
+        "wins": 0,
+        "losses": 0,
+        "ties": 0,
+        "pointsFor": 0,
+        "pointsAgainst": 0,
+        "placement": null,
+        "madePlayoffs": false,
+        "isChampion": false,
+        "streak": null
+      },
+      "mostRecentSeason": {
+        "season": "2026",
+        "teamName": "Cookin’ with CMC",
+        "wins": 0,
+        "losses": 0,
+        "ties": 0,
+        "pointsFor": 0,
+        "pointsAgainst": 0,
+        "placement": null,
+        "madePlayoffs": false,
+        "isChampion": false,
+        "streak": null
+      },
+      "currentStreak": {
+        "season": "2026",
+        "value": null
+      }
+    },
+    {
+      "id": "868911262652846080",
+      "displayName": "bigben634",
+      "avatar": "8eb8f8bf999945d523f2c4033f70473e",
+      "seasons": [
+        {
+          "season": "2022",
+          "teamName": "2 Girls 1 Kupp ",
+          "wins": 6,
+          "losses": 8,
+          "ties": 0,
+          "pointsFor": 1570.08,
+          "pointsAgainst": 1620.72,
+          "placement": 7,
+          "madePlayoffs": false,
+          "isChampion": false,
+          "streak": "1L"
+        }
+      ],
+      "career": {
+        "wins": 6,
+        "losses": 8,
+        "ties": 0,
+        "pointsFor": 1570.08,
+        "pointsAgainst": 1620.72,
+        "championships": 0,
+        "playoffAppearances": 0,
+        "gamesPlayed": 14,
+        "winPct": 0.4286
+      },
+      "seasonsPlayed": 1,
+      "bestSeason": {
+        "season": "2022",
+        "teamName": "2 Girls 1 Kupp ",
+        "wins": 6,
+        "losses": 8,
+        "ties": 0,
+        "pointsFor": 1570.08,
+        "pointsAgainst": 1620.72,
+        "placement": 7,
+        "madePlayoffs": false,
+        "isChampion": false,
+        "streak": "1L"
+      },
+      "worstSeason": {
+        "season": "2022",
+        "teamName": "2 Girls 1 Kupp ",
+        "wins": 6,
+        "losses": 8,
+        "ties": 0,
+        "pointsFor": 1570.08,
+        "pointsAgainst": 1620.72,
+        "placement": 7,
+        "madePlayoffs": false,
+        "isChampion": false,
+        "streak": "1L"
+      },
+      "mostRecentSeason": {
+        "season": "2022",
+        "teamName": "2 Girls 1 Kupp ",
+        "wins": 6,
+        "losses": 8,
+        "ties": 0,
+        "pointsFor": 1570.08,
+        "pointsAgainst": 1620.72,
+        "placement": 7,
+        "madePlayoffs": false,
+        "isChampion": false,
+        "streak": "1L"
+      },
+      "currentStreak": {
+        "season": "2022",
+        "value": "1L"
+      }
+    },
+    {
+      "id": "699405229212377088",
+      "displayName": "SoySauceLife",
+      "avatar": "8eb8f8bf999945d523f2c4033f70473e",
+      "seasons": [
+        {
+          "season": "2022",
+          "teamName": "Koo Koo 4 Koo",
+          "wins": 4,
+          "losses": 10,
+          "ties": 0,
+          "pointsFor": 1502.92,
+          "pointsAgainst": 1747.92,
+          "placement": 9,
+          "madePlayoffs": false,
+          "isChampion": false,
+          "streak": "1W"
+        },
+        {
+          "season": "2023",
+          "teamName": "Koo Koo 4 Koo",
+          "wins": 7,
+          "losses": 7,
+          "ties": 0,
+          "pointsFor": 1684.62,
+          "pointsAgainst": 1590.06,
+          "placement": 7,
+          "madePlayoffs": false,
+          "isChampion": false,
+          "streak": "1L"
+        },
+        {
+          "season": "2024",
+          "teamName": "Will you be McBride?",
+          "wins": 7,
+          "losses": 7,
+          "ties": 0,
+          "pointsFor": 1437.72,
+          "pointsAgainst": 1580.64,
+          "placement": 7,
+          "madePlayoffs": false,
+          "isChampion": false,
+          "streak": "4L"
+        },
+        {
+          "season": "2025",
+          "teamName": "Koo Koo 4 Koo",
+          "wins": 6,
+          "losses": 8,
+          "ties": 0,
+          "pointsFor": 1652.68,
+          "pointsAgainst": 1657.06,
+          "placement": 7,
+          "madePlayoffs": false,
+          "isChampion": false,
+          "streak": "2W"
+        },
+        {
+          "season": "2026",
+          "teamName": "Koo Koo 4 Koo",
+          "wins": 0,
+          "losses": 0,
+          "ties": 0,
+          "pointsFor": 0,
+          "pointsAgainst": 0,
+          "placement": null,
+          "madePlayoffs": true,
+          "isChampion": false,
+          "streak": null
+        }
+      ],
+      "career": {
+        "wins": 24,
+        "losses": 32,
+        "ties": 0,
+        "pointsFor": 6277.94,
+        "pointsAgainst": 6575.68,
+        "championships": 0,
+        "playoffAppearances": 1,
+        "gamesPlayed": 56,
+        "winPct": 0.4286
+      },
+      "seasonsPlayed": 5,
+      "bestSeason": {
+        "season": "2023",
+        "teamName": "Koo Koo 4 Koo",
+        "wins": 7,
+        "losses": 7,
+        "ties": 0,
+        "pointsFor": 1684.62,
+        "pointsAgainst": 1590.06,
+        "placement": 7,
+        "madePlayoffs": false,
+        "isChampion": false,
+        "streak": "1L"
+      },
+      "worstSeason": {
+        "season": "2026",
+        "teamName": "Koo Koo 4 Koo",
+        "wins": 0,
+        "losses": 0,
+        "ties": 0,
+        "pointsFor": 0,
+        "pointsAgainst": 0,
+        "placement": null,
+        "madePlayoffs": true,
+        "isChampion": false,
+        "streak": null
+      },
+      "mostRecentSeason": {
+        "season": "2026",
+        "teamName": "Koo Koo 4 Koo",
+        "wins": 0,
+        "losses": 0,
+        "ties": 0,
+        "pointsFor": 0,
+        "pointsAgainst": 0,
+        "placement": null,
+        "madePlayoffs": true,
+        "isChampion": false,
+        "streak": null
+      },
+      "currentStreak": {
+        "season": "2026",
+        "value": null
+      }
+    },
+    {
+      "id": "869330635821621248",
+      "displayName": "JustForTheHallavant",
+      "avatar": "f0edbf4278f53f9425db175073df6584",
+      "seasons": [
+        {
+          "season": "2022",
+          "teamName": null,
+          "wins": 6,
+          "losses": 8,
+          "ties": 0,
+          "pointsFor": 1429.46,
+          "pointsAgainst": 1568.1,
+          "placement": 11,
+          "madePlayoffs": false,
+          "isChampion": false,
+          "streak": "1W"
+        }
+      ],
+      "career": {
+        "wins": 6,
+        "losses": 8,
+        "ties": 0,
+        "pointsFor": 1429.46,
+        "pointsAgainst": 1568.1,
+        "championships": 0,
+        "playoffAppearances": 0,
+        "gamesPlayed": 14,
+        "winPct": 0.4286
+      },
+      "seasonsPlayed": 1,
+      "bestSeason": {
+        "season": "2022",
+        "teamName": null,
+        "wins": 6,
+        "losses": 8,
+        "ties": 0,
+        "pointsFor": 1429.46,
+        "pointsAgainst": 1568.1,
+        "placement": 11,
+        "madePlayoffs": false,
+        "isChampion": false,
+        "streak": "1W"
+      },
+      "worstSeason": {
+        "season": "2022",
+        "teamName": null,
+        "wins": 6,
+        "losses": 8,
+        "ties": 0,
+        "pointsFor": 1429.46,
+        "pointsAgainst": 1568.1,
+        "placement": 11,
+        "madePlayoffs": false,
+        "isChampion": false,
+        "streak": "1W"
+      },
+      "mostRecentSeason": {
+        "season": "2022",
+        "teamName": null,
+        "wins": 6,
+        "losses": 8,
+        "ties": 0,
+        "pointsFor": 1429.46,
+        "pointsAgainst": 1568.1,
+        "placement": 11,
+        "madePlayoffs": false,
+        "isChampion": false,
+        "streak": "1W"
+      },
+      "currentStreak": {
+        "season": "2022",
+        "value": "1W"
+      }
+    },
+    {
+      "id": "457253887884128256",
+      "displayName": "DavidsonDerek",
+      "avatar": "5dadf4f70e824e3506646f13fc2105d4",
+      "seasons": [
+        {
+          "season": "2022",
+          "teamName": "First Place",
+          "wins": 6,
+          "losses": 8,
+          "ties": 0,
+          "pointsFor": 1602.06,
+          "pointsAgainst": 1527.1,
+          "placement": 8,
+          "madePlayoffs": false,
+          "isChampion": false,
+          "streak": "1L"
+        },
+        {
+          "season": "2023",
+          "teamName": "Team Hallavant",
+          "wins": 4,
+          "losses": 10,
+          "ties": 0,
+          "pointsFor": 1464.58,
+          "pointsAgainst": 1618.32,
+          "placement": 9,
+          "madePlayoffs": false,
+          "isChampion": false,
+          "streak": "6L"
+        }
+      ],
+      "career": {
+        "wins": 10,
+        "losses": 18,
+        "ties": 0,
+        "pointsFor": 3066.64,
+        "pointsAgainst": 3145.42,
+        "championships": 0,
+        "playoffAppearances": 0,
+        "gamesPlayed": 28,
+        "winPct": 0.3571
+      },
+      "seasonsPlayed": 2,
+      "bestSeason": {
+        "season": "2022",
+        "teamName": "First Place",
+        "wins": 6,
+        "losses": 8,
+        "ties": 0,
+        "pointsFor": 1602.06,
+        "pointsAgainst": 1527.1,
+        "placement": 8,
+        "madePlayoffs": false,
+        "isChampion": false,
+        "streak": "1L"
+      },
+      "worstSeason": {
+        "season": "2023",
+        "teamName": "Team Hallavant",
+        "wins": 4,
+        "losses": 10,
+        "ties": 0,
+        "pointsFor": 1464.58,
+        "pointsAgainst": 1618.32,
+        "placement": 9,
+        "madePlayoffs": false,
+        "isChampion": false,
+        "streak": "6L"
+      },
+      "mostRecentSeason": {
+        "season": "2023",
+        "teamName": "Team Hallavant",
+        "wins": 4,
+        "losses": 10,
+        "ties": 0,
+        "pointsFor": 1464.58,
+        "pointsAgainst": 1618.32,
+        "placement": 9,
+        "madePlayoffs": false,
+        "isChampion": false,
+        "streak": "6L"
+      },
+      "currentStreak": {
+        "season": "2023",
+        "value": "6L"
+      }
+    },
+    {
+      "id": "861752860176691200",
+      "displayName": "gamesjary",
+      "avatar": "1d856dfaa65d6e6f8865cee261602158",
+      "seasons": [
+        {
+          "season": "2022",
+          "teamName": "Mahomes is Overrated",
+          "wins": 6,
+          "losses": 8,
+          "ties": 0,
+          "pointsFor": 1481.2,
+          "pointsAgainst": 1586.96,
+          "placement": 12,
+          "madePlayoffs": false,
+          "isChampion": false,
+          "streak": "1L"
+        },
+        {
+          "season": "2023",
+          "teamName": "EEEEE EEEEEEEEE",
+          "wins": 3,
+          "losses": 11,
+          "ties": 0,
+          "pointsFor": 1438.68,
+          "pointsAgainst": 1599.32,
+          "placement": 11,
+          "madePlayoffs": false,
+          "isChampion": false,
+          "streak": "1W"
+        },
+        {
+          "season": "2024",
+          "teamName": "Izzy is back in Last",
+          "wins": 1,
+          "losses": 13,
+          "ties": 0,
+          "pointsFor": 1219.92,
+          "pointsAgainst": 1699.94,
+          "placement": 11,
+          "madePlayoffs": false,
+          "isChampion": false,
+          "streak": "11L"
+        }
+      ],
+      "career": {
+        "wins": 10,
+        "losses": 32,
+        "ties": 0,
+        "pointsFor": 4139.8,
+        "pointsAgainst": 4886.22,
+        "championships": 0,
+        "playoffAppearances": 0,
+        "gamesPlayed": 42,
+        "winPct": 0.2381
+      },
+      "seasonsPlayed": 3,
+      "bestSeason": {
+        "season": "2022",
+        "teamName": "Mahomes is Overrated",
+        "wins": 6,
+        "losses": 8,
+        "ties": 0,
+        "pointsFor": 1481.2,
+        "pointsAgainst": 1586.96,
+        "placement": 12,
+        "madePlayoffs": false,
+        "isChampion": false,
+        "streak": "1L"
+      },
+      "worstSeason": {
+        "season": "2024",
+        "teamName": "Izzy is back in Last",
+        "wins": 1,
+        "losses": 13,
+        "ties": 0,
+        "pointsFor": 1219.92,
+        "pointsAgainst": 1699.94,
+        "placement": 11,
+        "madePlayoffs": false,
+        "isChampion": false,
+        "streak": "11L"
+      },
+      "mostRecentSeason": {
+        "season": "2024",
+        "teamName": "Izzy is back in Last",
+        "wins": 1,
+        "losses": 13,
+        "ties": 0,
+        "pointsFor": 1219.92,
+        "pointsAgainst": 1699.94,
+        "placement": 11,
+        "madePlayoffs": false,
+        "isChampion": false,
+        "streak": "11L"
+      },
+      "currentStreak": {
+        "season": "2024",
+        "value": "11L"
+      }
+    },
+    {
+      "id": "916802530590441472",
+      "displayName": "DucksofAFeather",
+      "avatar": "15d7cf259bc30eab8f6120f45f652fb6",
+      "seasons": [
+        {
+          "season": "2025",
+          "teamName": "RussellMania",
+          "wins": 2,
+          "losses": 12,
+          "ties": 0,
+          "pointsFor": 1367.94,
+          "pointsAgainst": 1697.04,
+          "placement": 11,
+          "madePlayoffs": false,
+          "isChampion": false,
+          "streak": "6L"
+        },
+        {
+          "season": "2026",
+          "teamName": "RussellMania",
+          "wins": 0,
+          "losses": 0,
+          "ties": 0,
+          "pointsFor": 0,
+          "pointsAgainst": 0,
+          "placement": null,
+          "madePlayoffs": true,
+          "isChampion": false,
+          "streak": null
+        }
+      ],
+      "career": {
+        "wins": 2,
+        "losses": 12,
+        "ties": 0,
+        "pointsFor": 1367.94,
+        "pointsAgainst": 1697.04,
+        "championships": 0,
+        "playoffAppearances": 1,
+        "gamesPlayed": 14,
+        "winPct": 0.1429
+      },
+      "seasonsPlayed": 2,
+      "bestSeason": {
+        "season": "2025",
+        "teamName": "RussellMania",
+        "wins": 2,
+        "losses": 12,
+        "ties": 0,
+        "pointsFor": 1367.94,
+        "pointsAgainst": 1697.04,
+        "placement": 11,
+        "madePlayoffs": false,
+        "isChampion": false,
+        "streak": "6L"
+      },
+      "worstSeason": {
+        "season": "2026",
+        "teamName": "RussellMania",
+        "wins": 0,
+        "losses": 0,
+        "ties": 0,
+        "pointsFor": 0,
+        "pointsAgainst": 0,
+        "placement": null,
+        "madePlayoffs": true,
+        "isChampion": false,
+        "streak": null
+      },
+      "mostRecentSeason": {
+        "season": "2026",
+        "teamName": "RussellMania",
+        "wins": 0,
+        "losses": 0,
+        "ties": 0,
+        "pointsFor": 0,
+        "pointsAgainst": 0,
+        "placement": null,
+        "madePlayoffs": true,
+        "isChampion": false,
+        "streak": null
+      },
+      "currentStreak": {
+        "season": "2026",
+        "value": null
+      }
+    },
+    {
+      "id": "1255661919939874816",
+      "displayName": "jwilmil",
+      "avatar": "578c6b253dd7b4bab45382e1af102204",
+      "seasons": [
+        {
+          "season": "2026",
+          "teamName": "Waterboy",
+          "wins": 0,
+          "losses": 0,
+          "ties": 0,
+          "pointsFor": 0,
+          "pointsAgainst": 0,
+          "placement": null,
+          "madePlayoffs": false,
+          "isChampion": false,
+          "streak": null
+        }
+      ],
+      "career": {
+        "wins": 0,
+        "losses": 0,
+        "ties": 0,
+        "pointsFor": 0,
+        "pointsAgainst": 0,
+        "championships": 0,
+        "playoffAppearances": 0,
+        "gamesPlayed": 0,
+        "winPct": 0
+      },
+      "seasonsPlayed": 1,
+      "bestSeason": {
+        "season": "2026",
+        "teamName": "Waterboy",
+        "wins": 0,
+        "losses": 0,
+        "ties": 0,
+        "pointsFor": 0,
+        "pointsAgainst": 0,
+        "placement": null,
+        "madePlayoffs": false,
+        "isChampion": false,
+        "streak": null
+      },
+      "worstSeason": {
+        "season": "2026",
+        "teamName": "Waterboy",
+        "wins": 0,
+        "losses": 0,
+        "ties": 0,
+        "pointsFor": 0,
+        "pointsAgainst": 0,
+        "placement": null,
+        "madePlayoffs": false,
+        "isChampion": false,
+        "streak": null
+      },
+      "mostRecentSeason": {
+        "season": "2026",
+        "teamName": "Waterboy",
+        "wins": 0,
+        "losses": 0,
+        "ties": 0,
+        "pointsFor": 0,
+        "pointsAgainst": 0,
+        "placement": null,
+        "madePlayoffs": false,
+        "isChampion": false,
+        "streak": null
+      },
+      "currentStreak": {
+        "season": "2026",
+        "value": null
+      }
+    }
+  ],
+  "headToHead": {
+    "721922093368827904": {
+      "868708583389454336": {
+        "wins": 4,
+        "losses": 2,
+        "ties": 0
+      },
+      "870731702706946048": {
+        "wins": 5,
+        "losses": 0,
+        "ties": 0
+      },
+      "869290352429924352": {
+        "wins": 4,
+        "losses": 2,
+        "ties": 0
+      },
+      "868334811373277184": {
+        "wins": 2,
+        "losses": 2,
+        "ties": 0
+      },
+      "457253887884128256": {
+        "wins": 2,
+        "losses": 0,
+        "ties": 0
+      },
+      "869330635821621248": {
+        "wins": 1,
+        "losses": 0,
+        "ties": 0
+      },
+      "699405229212377088": {
+        "wins": 3,
+        "losses": 1,
+        "ties": 0
+      },
+      "864949273853308928": {
+        "wins": 4,
+        "losses": 0,
+        "ties": 0
+      },
+      "868907495270322176": {
+        "wins": 4,
+        "losses": 1,
+        "ties": 0
+      },
+      "861752860176691200": {
+        "wins": 4,
+        "losses": 0,
+        "ties": 0
+      },
+      "868911262652846080": {
+        "wins": 1,
+        "losses": 0,
+        "ties": 0
+      },
+      "992254609848696832": {
+        "wins": 3,
+        "losses": 1,
+        "ties": 0
+      },
+      "326033318967533568": {
+        "wins": 1,
+        "losses": 1,
+        "ties": 0
+      },
+      "1130917842167361536": {
+        "wins": 0,
+        "losses": 1,
+        "ties": 0
+      },
+      "1128117893658513408": {
+        "wins": 2,
+        "losses": 0,
+        "ties": 0
+      },
+      "721963492252385280": {
+        "wins": 2,
+        "losses": 0,
+        "ties": 0
+      },
+      "1026229879408320512": {
+        "wins": 1,
+        "losses": 0,
+        "ties": 0
+      },
+      "916802530590441472": {
+        "wins": 1,
+        "losses": 0,
+        "ties": 0
+      }
+    },
+    "868708583389454336": {
+      "721922093368827904": {
+        "wins": 2,
+        "losses": 4,
+        "ties": 0
+      },
+      "869290352429924352": {
+        "wins": 3,
+        "losses": 3,
+        "ties": 0
+      },
+      "870731702706946048": {
+        "wins": 3,
+        "losses": 3,
+        "ties": 0
+      },
+      "457253887884128256": {
+        "wins": 0,
+        "losses": 2,
+        "ties": 0
+      },
+      "868334811373277184": {
+        "wins": 3,
+        "losses": 2,
+        "ties": 0
+      },
+      "699405229212377088": {
+        "wins": 3,
+        "losses": 1,
+        "ties": 0
+      },
+      "869330635821621248": {
+        "wins": 0,
+        "losses": 1,
+        "ties": 0
+      },
+      "868907495270322176": {
+        "wins": 2,
+        "losses": 2,
+        "ties": 0
+      },
+      "864949273853308928": {
+        "wins": 1,
+        "losses": 2,
+        "ties": 0
+      },
+      "868911262652846080": {
+        "wins": 1,
+        "losses": 0,
+        "ties": 0
+      },
+      "861752860176691200": {
+        "wins": 4,
+        "losses": 0,
+        "ties": 0
+      },
+      "992254609848696832": {
+        "wins": 1,
+        "losses": 2,
+        "ties": 0
+      },
+      "326033318967533568": {
+        "wins": 0,
+        "losses": 1,
+        "ties": 0
+      },
+      "1128117893658513408": {
+        "wins": 1,
+        "losses": 2,
+        "ties": 0
+      },
+      "1130917842167361536": {
+        "wins": 1,
+        "losses": 0,
+        "ties": 0
+      },
+      "1026229879408320512": {
+        "wins": 1,
+        "losses": 1,
+        "ties": 0
+      },
+      "916802530590441472": {
+        "wins": 0,
+        "losses": 1,
+        "ties": 0
+      },
+      "721963492252385280": {
+        "wins": 0,
+        "losses": 1,
+        "ties": 0
+      }
+    },
+    "868911262652846080": {
+      "861752860176691200": {
+        "wins": 0,
+        "losses": 2,
+        "ties": 0
+      },
+      "699405229212377088": {
+        "wins": 2,
+        "losses": 0,
+        "ties": 0
+      },
+      "869330635821621248": {
+        "wins": 1,
+        "losses": 1,
+        "ties": 0
+      },
+      "868907495270322176": {
+        "wins": 1,
+        "losses": 0,
+        "ties": 0
+      },
+      "864949273853308928": {
+        "wins": 1,
+        "losses": 0,
+        "ties": 0
+      },
+      "457253887884128256": {
+        "wins": 0,
+        "losses": 1,
+        "ties": 0
+      },
+      "868334811373277184": {
+        "wins": 1,
+        "losses": 0,
+        "ties": 0
+      },
+      "869290352429924352": {
+        "wins": 0,
+        "losses": 1,
+        "ties": 0
+      },
+      "870731702706946048": {
+        "wins": 0,
+        "losses": 1,
+        "ties": 0
+      },
+      "868708583389454336": {
+        "wins": 0,
+        "losses": 1,
+        "ties": 0
+      },
+      "721922093368827904": {
+        "wins": 0,
+        "losses": 1,
+        "ties": 0
+      }
+    },
+    "861752860176691200": {
+      "868911262652846080": {
+        "wins": 2,
+        "losses": 0,
+        "ties": 0
+      },
+      "869330635821621248": {
+        "wins": 2,
+        "losses": 0,
+        "ties": 0
+      },
+      "699405229212377088": {
+        "wins": 2,
+        "losses": 3,
+        "ties": 0
+      },
+      "864949273853308928": {
+        "wins": 0,
+        "losses": 3,
+        "ties": 0
+      },
+      "868907495270322176": {
+        "wins": 0,
+        "losses": 4,
+        "ties": 0
+      },
+      "868334811373277184": {
+        "wins": 1,
+        "losses": 2,
+        "ties": 0
+      },
+      "457253887884128256": {
+        "wins": 2,
+        "losses": 1,
+        "ties": 0
+      },
+      "870731702706946048": {
+        "wins": 1,
+        "losses": 3,
+        "ties": 0
+      },
+      "869290352429924352": {
+        "wins": 0,
+        "losses": 3,
+        "ties": 0
+      },
+      "721922093368827904": {
+        "wins": 0,
+        "losses": 4,
+        "ties": 0
+      },
+      "868708583389454336": {
+        "wins": 0,
+        "losses": 4,
+        "ties": 0
+      },
+      "992254609848696832": {
+        "wins": 0,
+        "losses": 2,
+        "ties": 0
+      },
+      "326033318967533568": {
+        "wins": 0,
+        "losses": 1,
+        "ties": 0
+      },
+      "1128117893658513408": {
+        "wins": 0,
+        "losses": 1,
+        "ties": 0
+      },
+      "1130917842167361536": {
+        "wins": 0,
+        "losses": 1,
+        "ties": 0
+      }
+    },
+    "868907495270322176": {
+      "864949273853308928": {
+        "wins": 2,
+        "losses": 3,
+        "ties": 0
+      },
+      "457253887884128256": {
+        "wins": 2,
+        "losses": 2,
+        "ties": 0
+      },
+      "868334811373277184": {
+        "wins": 3,
+        "losses": 3,
+        "ties": 0
+      },
+      "868911262652846080": {
+        "wins": 0,
+        "losses": 1,
+        "ties": 0
+      },
+      "861752860176691200": {
+        "wins": 4,
+        "losses": 0,
+        "ties": 0
+      },
+      "869290352429924352": {
+        "wins": 3,
+        "losses": 2,
+        "ties": 0
+      },
+      "870731702706946048": {
+        "wins": 0,
+        "losses": 3,
+        "ties": 0
+      },
+      "868708583389454336": {
+        "wins": 2,
+        "losses": 2,
+        "ties": 0
+      },
+      "721922093368827904": {
+        "wins": 1,
+        "losses": 4,
+        "ties": 0
+      },
+      "699405229212377088": {
+        "wins": 5,
+        "losses": 0,
+        "ties": 0
+      },
+      "869330635821621248": {
+        "wins": 1,
+        "losses": 0,
+        "ties": 0
+      },
+      "326033318967533568": {
+        "wins": 1,
+        "losses": 0,
+        "ties": 0
+      },
+      "992254609848696832": {
+        "wins": 2,
+        "losses": 1,
+        "ties": 0
+      },
+      "1130917842167361536": {
+        "wins": 0,
+        "losses": 2,
+        "ties": 0
+      },
+      "1128117893658513408": {
+        "wins": 1,
+        "losses": 1,
+        "ties": 0
+      },
+      "721963492252385280": {
+        "wins": 1,
+        "losses": 1,
+        "ties": 0
+      },
+      "1026229879408320512": {
+        "wins": 0,
+        "losses": 1,
+        "ties": 0
+      },
+      "916802530590441472": {
+        "wins": 1,
+        "losses": 0,
+        "ties": 0
+      }
+    },
+    "864949273853308928": {
+      "868907495270322176": {
+        "wins": 3,
+        "losses": 2,
+        "ties": 0
+      },
+      "868334811373277184": {
+        "wins": 4,
+        "losses": 1,
+        "ties": 0
+      },
+      "457253887884128256": {
+        "wins": 3,
+        "losses": 0,
+        "ties": 0
+      },
+      "861752860176691200": {
+        "wins": 3,
+        "losses": 0,
+        "ties": 0
+      },
+      "868911262652846080": {
+        "wins": 0,
+        "losses": 1,
+        "ties": 0
+      },
+      "870731702706946048": {
+        "wins": 0,
+        "losses": 3,
+        "ties": 0
+      },
+      "869290352429924352": {
+        "wins": 1,
+        "losses": 2,
+        "ties": 0
+      },
+      "721922093368827904": {
+        "wins": 0,
+        "losses": 4,
+        "ties": 0
+      },
+      "868708583389454336": {
+        "wins": 2,
+        "losses": 1,
+        "ties": 0
+      },
+      "869330635821621248": {
+        "wins": 0,
+        "losses": 1,
+        "ties": 0
+      },
+      "699405229212377088": {
+        "wins": 2,
+        "losses": 1,
+        "ties": 0
+      },
+      "326033318967533568": {
+        "wins": 0,
+        "losses": 2,
+        "ties": 0
+      },
+      "992254609848696832": {
+        "wins": 2,
+        "losses": 1,
+        "ties": 0
+      },
+      "1130917842167361536": {
+        "wins": 0,
+        "losses": 2,
+        "ties": 0
+      },
+      "1128117893658513408": {
+        "wins": 0,
+        "losses": 1,
+        "ties": 0
+      }
+    },
+    "869290352429924352": {
+      "870731702706946048": {
+        "wins": 2,
+        "losses": 3,
+        "ties": 0
+      },
+      "868708583389454336": {
+        "wins": 3,
+        "losses": 3,
+        "ties": 0
+      },
+      "721922093368827904": {
+        "wins": 2,
+        "losses": 4,
+        "ties": 0
+      },
+      "699405229212377088": {
+        "wins": 2,
+        "losses": 3,
+        "ties": 0
+      },
+      "869330635821621248": {
+        "wins": 1,
+        "losses": 0,
+        "ties": 0
+      },
+      "868907495270322176": {
+        "wins": 2,
+        "losses": 3,
+        "ties": 0
+      },
+      "864949273853308928": {
+        "wins": 2,
+        "losses": 1,
+        "ties": 0
+      },
+      "868911262652846080": {
+        "wins": 1,
+        "losses": 0,
+        "ties": 0
+      },
+      "861752860176691200": {
+        "wins": 3,
+        "losses": 0,
+        "ties": 0
+      },
+      "457253887884128256": {
+        "wins": 1,
+        "losses": 1,
+        "ties": 0
+      },
+      "868334811373277184": {
+        "wins": 4,
+        "losses": 1,
+        "ties": 0
+      },
+      "326033318967533568": {
+        "wins": 1,
+        "losses": 0,
+        "ties": 0
+      },
+      "992254609848696832": {
+        "wins": 3,
+        "losses": 1,
+        "ties": 0
+      },
+      "1128117893658513408": {
+        "wins": 0,
+        "losses": 3,
+        "ties": 0
+      },
+      "1130917842167361536": {
+        "wins": 0,
+        "losses": 1,
+        "ties": 0
+      },
+      "721963492252385280": {
+        "wins": 1,
+        "losses": 1,
+        "ties": 0
+      },
+      "916802530590441472": {
+        "wins": 0,
+        "losses": 1,
+        "ties": 0
+      },
+      "1026229879408320512": {
+        "wins": 0,
+        "losses": 1,
+        "ties": 0
+      }
+    },
+    "870731702706946048": {
+      "869290352429924352": {
+        "wins": 3,
+        "losses": 2,
+        "ties": 0
+      },
+      "721922093368827904": {
+        "wins": 0,
+        "losses": 5,
+        "ties": 0
+      },
+      "868708583389454336": {
+        "wins": 3,
+        "losses": 3,
+        "ties": 0
+      },
+      "869330635821621248": {
+        "wins": 0,
+        "losses": 1,
+        "ties": 0
+      },
+      "699405229212377088": {
+        "wins": 2,
+        "losses": 1,
+        "ties": 0
+      },
+      "864949273853308928": {
+        "wins": 3,
+        "losses": 0,
+        "ties": 0
+      },
+      "868907495270322176": {
+        "wins": 3,
+        "losses": 0,
+        "ties": 0
+      },
+      "861752860176691200": {
+        "wins": 3,
+        "losses": 1,
+        "ties": 0
+      },
+      "868911262652846080": {
+        "wins": 1,
+        "losses": 0,
+        "ties": 0
+      },
+      "868334811373277184": {
+        "wins": 3,
+        "losses": 1,
+        "ties": 0
+      },
+      "457253887884128256": {
+        "wins": 2,
+        "losses": 0,
+        "ties": 0
+      },
+      "992254609848696832": {
+        "wins": 2,
+        "losses": 0,
+        "ties": 0
+      },
+      "326033318967533568": {
+        "wins": 1,
+        "losses": 0,
+        "ties": 0
+      },
+      "1130917842167361536": {
+        "wins": 1,
+        "losses": 0,
+        "ties": 0
+      },
+      "1128117893658513408": {
+        "wins": 1,
+        "losses": 0,
+        "ties": 0
+      }
+    },
+    "699405229212377088": {
+      "869330635821621248": {
+        "wins": 1,
+        "losses": 1,
+        "ties": 0
+      },
+      "868911262652846080": {
+        "wins": 0,
+        "losses": 2,
+        "ties": 0
+      },
+      "861752860176691200": {
+        "wins": 3,
+        "losses": 2,
+        "ties": 0
+      },
+      "869290352429924352": {
+        "wins": 3,
+        "losses": 2,
+        "ties": 0
+      },
+      "870731702706946048": {
+        "wins": 1,
+        "losses": 2,
+        "ties": 0
+      },
+      "868708583389454336": {
+        "wins": 1,
+        "losses": 3,
+        "ties": 0
+      },
+      "721922093368827904": {
+        "wins": 1,
+        "losses": 3,
+        "ties": 0
+      },
+      "457253887884128256": {
+        "wins": 2,
+        "losses": 1,
+        "ties": 0
+      },
+      "868334811373277184": {
+        "wins": 4,
+        "losses": 1,
+        "ties": 0
+      },
+      "868907495270322176": {
+        "wins": 0,
+        "losses": 5,
+        "ties": 0
+      },
+      "864949273853308928": {
+        "wins": 1,
+        "losses": 2,
+        "ties": 0
+      },
+      "992254609848696832": {
+        "wins": 1,
+        "losses": 4,
+        "ties": 0
+      },
+      "326033318967533568": {
+        "wins": 1,
+        "losses": 0,
+        "ties": 0
+      },
+      "1128117893658513408": {
+        "wins": 2,
+        "losses": 1,
+        "ties": 0
+      },
+      "1130917842167361536": {
+        "wins": 1,
+        "losses": 0,
+        "ties": 0
+      },
+      "916802530590441472": {
+        "wins": 2,
+        "losses": 0,
+        "ties": 0
+      },
+      "721963492252385280": {
+        "wins": 0,
+        "losses": 1,
+        "ties": 0
+      },
+      "1026229879408320512": {
+        "wins": 0,
+        "losses": 1,
+        "ties": 0
+      }
+    },
+    "869330635821621248": {
+      "699405229212377088": {
+        "wins": 1,
+        "losses": 1,
+        "ties": 0
+      },
+      "861752860176691200": {
+        "wins": 0,
+        "losses": 2,
+        "ties": 0
+      },
+      "868911262652846080": {
+        "wins": 1,
+        "losses": 1,
+        "ties": 0
+      },
+      "870731702706946048": {
+        "wins": 1,
+        "losses": 0,
+        "ties": 0
+      },
+      "869290352429924352": {
+        "wins": 0,
+        "losses": 1,
+        "ties": 0
+      },
+      "721922093368827904": {
+        "wins": 0,
+        "losses": 1,
+        "ties": 0
+      },
+      "868708583389454336": {
+        "wins": 1,
+        "losses": 0,
+        "ties": 0
+      },
+      "868334811373277184": {
+        "wins": 1,
+        "losses": 0,
+        "ties": 0
+      },
+      "457253887884128256": {
+        "wins": 0,
+        "losses": 1,
+        "ties": 0
+      },
+      "864949273853308928": {
+        "wins": 1,
+        "losses": 0,
+        "ties": 0
+      },
+      "868907495270322176": {
+        "wins": 0,
+        "losses": 1,
+        "ties": 0
+      }
+    },
+    "868334811373277184": {
+      "457253887884128256": {
+        "wins": 2,
+        "losses": 1,
+        "ties": 0
+      },
+      "864949273853308928": {
+        "wins": 1,
+        "losses": 4,
+        "ties": 0
+      },
+      "868907495270322176": {
+        "wins": 3,
+        "losses": 3,
+        "ties": 0
+      },
+      "721922093368827904": {
+        "wins": 2,
+        "losses": 2,
+        "ties": 0
+      },
+      "868708583389454336": {
+        "wins": 2,
+        "losses": 3,
+        "ties": 0
+      },
+      "861752860176691200": {
+        "wins": 2,
+        "losses": 1,
+        "ties": 0
+      },
+      "868911262652846080": {
+        "wins": 0,
+        "losses": 1,
+        "ties": 0
+      },
+      "869330635821621248": {
+        "wins": 0,
+        "losses": 1,
+        "ties": 0
+      },
+      "699405229212377088": {
+        "wins": 1,
+        "losses": 4,
+        "ties": 0
+      },
+      "870731702706946048": {
+        "wins": 1,
+        "losses": 3,
+        "ties": 0
+      },
+      "869290352429924352": {
+        "wins": 1,
+        "losses": 4,
+        "ties": 0
+      },
+      "326033318967533568": {
+        "wins": 1,
+        "losses": 0,
+        "ties": 0
+      },
+      "992254609848696832": {
+        "wins": 3,
+        "losses": 1,
+        "ties": 0
+      },
+      "1130917842167361536": {
+        "wins": 1,
+        "losses": 1,
+        "ties": 0
+      },
+      "1128117893658513408": {
+        "wins": 1,
+        "losses": 1,
+        "ties": 0
+      },
+      "916802530590441472": {
+        "wins": 2,
+        "losses": 0,
+        "ties": 0
+      },
+      "1026229879408320512": {
+        "wins": 1,
+        "losses": 0,
+        "ties": 0
+      },
+      "721963492252385280": {
+        "wins": 1,
+        "losses": 0,
+        "ties": 0
+      }
+    },
+    "457253887884128256": {
+      "868334811373277184": {
+        "wins": 1,
+        "losses": 2,
+        "ties": 0
+      },
+      "868907495270322176": {
+        "wins": 2,
+        "losses": 2,
+        "ties": 0
+      },
+      "864949273853308928": {
+        "wins": 0,
+        "losses": 3,
+        "ties": 0
+      },
+      "868708583389454336": {
+        "wins": 2,
+        "losses": 0,
+        "ties": 0
+      },
+      "721922093368827904": {
+        "wins": 0,
+        "losses": 2,
+        "ties": 0
+      },
+      "868911262652846080": {
+        "wins": 1,
+        "losses": 0,
+        "ties": 0
+      },
+      "861752860176691200": {
+        "wins": 1,
+        "losses": 2,
+        "ties": 0
+      },
+      "699405229212377088": {
+        "wins": 1,
+        "losses": 2,
+        "ties": 0
+      },
+      "869330635821621248": {
+        "wins": 1,
+        "losses": 0,
+        "ties": 0
+      },
+      "869290352429924352": {
+        "wins": 1,
+        "losses": 1,
+        "ties": 0
+      },
+      "870731702706946048": {
+        "wins": 0,
+        "losses": 2,
+        "ties": 0
+      },
+      "326033318967533568": {
+        "wins": 0,
+        "losses": 1,
+        "ties": 0
+      },
+      "992254609848696832": {
+        "wins": 0,
+        "losses": 1,
+        "ties": 0
+      }
+    },
+    "992254609848696832": {
+      "326033318967533568": {
+        "wins": 1,
+        "losses": 1,
+        "ties": 0
+      },
+      "721922093368827904": {
+        "wins": 1,
+        "losses": 3,
+        "ties": 0
+      },
+      "864949273853308928": {
+        "wins": 1,
+        "losses": 2,
+        "ties": 0
+      },
+      "861752860176691200": {
+        "wins": 2,
+        "losses": 0,
+        "ties": 0
+      },
+      "868907495270322176": {
+        "wins": 1,
+        "losses": 2,
+        "ties": 0
+      },
+      "870731702706946048": {
+        "wins": 0,
+        "losses": 2,
+        "ties": 0
+      },
+      "869290352429924352": {
+        "wins": 1,
+        "losses": 3,
+        "ties": 0
+      },
+      "868708583389454336": {
+        "wins": 2,
+        "losses": 1,
+        "ties": 0
+      },
+      "868334811373277184": {
+        "wins": 1,
+        "losses": 3,
+        "ties": 0
+      },
+      "699405229212377088": {
+        "wins": 4,
+        "losses": 1,
+        "ties": 0
+      },
+      "457253887884128256": {
+        "wins": 1,
+        "losses": 0,
+        "ties": 0
+      },
+      "1128117893658513408": {
+        "wins": 1,
+        "losses": 2,
+        "ties": 0
+      },
+      "1130917842167361536": {
+        "wins": 1,
+        "losses": 0,
+        "ties": 0
+      },
+      "916802530590441472": {
+        "wins": 2,
+        "losses": 0,
+        "ties": 0
+      },
+      "721963492252385280": {
+        "wins": 0,
+        "losses": 1,
+        "ties": 0
+      },
+      "1026229879408320512": {
+        "wins": 0,
+        "losses": 1,
+        "ties": 0
+      }
+    },
+    "326033318967533568": {
+      "992254609848696832": {
+        "wins": 1,
+        "losses": 1,
+        "ties": 0
+      },
+      "864949273853308928": {
+        "wins": 2,
+        "losses": 0,
+        "ties": 0
+      },
+      "721922093368827904": {
+        "wins": 1,
+        "losses": 1,
+        "ties": 0
+      },
+      "868907495270322176": {
+        "wins": 0,
+        "losses": 1,
+        "ties": 0
+      },
+      "861752860176691200": {
+        "wins": 1,
+        "losses": 0,
+        "ties": 0
+      },
+      "869290352429924352": {
+        "wins": 0,
+        "losses": 1,
+        "ties": 0
+      },
+      "870731702706946048": {
+        "wins": 0,
+        "losses": 1,
+        "ties": 0
+      },
+      "868334811373277184": {
+        "wins": 0,
+        "losses": 1,
+        "ties": 0
+      },
+      "868708583389454336": {
+        "wins": 1,
+        "losses": 0,
+        "ties": 0
+      },
+      "457253887884128256": {
+        "wins": 1,
+        "losses": 0,
+        "ties": 0
+      },
+      "699405229212377088": {
+        "wins": 0,
+        "losses": 1,
+        "ties": 0
+      }
+    },
+    "1128117893658513408": {
+      "869290352429924352": {
+        "wins": 3,
+        "losses": 0,
+        "ties": 0
+      },
+      "699405229212377088": {
+        "wins": 1,
+        "losses": 2,
+        "ties": 0
+      },
+      "992254609848696832": {
+        "wins": 2,
+        "losses": 1,
+        "ties": 0
+      },
+      "864949273853308928": {
+        "wins": 1,
+        "losses": 0,
+        "ties": 0
+      },
+      "868907495270322176": {
+        "wins": 1,
+        "losses": 1,
+        "ties": 0
+      },
+      "861752860176691200": {
+        "wins": 1,
+        "losses": 0,
+        "ties": 0
+      },
+      "868708583389454336": {
+        "wins": 2,
+        "losses": 1,
+        "ties": 0
+      },
+      "1130917842167361536": {
+        "wins": 1,
+        "losses": 0,
+        "ties": 0
+      },
+      "868334811373277184": {
+        "wins": 1,
+        "losses": 1,
+        "ties": 0
+      },
+      "721922093368827904": {
+        "wins": 0,
+        "losses": 2,
+        "ties": 0
+      },
+      "870731702706946048": {
+        "wins": 0,
+        "losses": 1,
+        "ties": 0
+      },
+      "1026229879408320512": {
+        "wins": 1,
+        "losses": 1,
+        "ties": 0
+      },
+      "721963492252385280": {
+        "wins": 1,
+        "losses": 0,
+        "ties": 0
+      },
+      "916802530590441472": {
+        "wins": 1,
+        "losses": 0,
+        "ties": 0
+      }
+    },
+    "1130917842167361536": {
+      "868334811373277184": {
+        "wins": 1,
+        "losses": 1,
+        "ties": 0
+      },
+      "864949273853308928": {
+        "wins": 2,
+        "losses": 0,
+        "ties": 0
+      },
+      "868907495270322176": {
+        "wins": 2,
+        "losses": 0,
+        "ties": 0
+      },
+      "721922093368827904": {
+        "wins": 1,
+        "losses": 0,
+        "ties": 0
+      },
+      "870731702706946048": {
+        "wins": 0,
+        "losses": 1,
+        "ties": 0
+      },
+      "699405229212377088": {
+        "wins": 0,
+        "losses": 1,
+        "ties": 0
+      },
+      "992254609848696832": {
+        "wins": 0,
+        "losses": 1,
+        "ties": 0
+      },
+      "1128117893658513408": {
+        "wins": 0,
+        "losses": 1,
+        "ties": 0
+      },
+      "869290352429924352": {
+        "wins": 1,
+        "losses": 0,
+        "ties": 0
+      },
+      "861752860176691200": {
+        "wins": 1,
+        "losses": 0,
+        "ties": 0
+      },
+      "868708583389454336": {
+        "wins": 0,
+        "losses": 1,
+        "ties": 0
+      }
+    },
+    "1026229879408320512": {
+      "868708583389454336": {
+        "wins": 1,
+        "losses": 1,
+        "ties": 0
+      },
+      "1128117893658513408": {
+        "wins": 1,
+        "losses": 1,
+        "ties": 0
+      },
+      "916802530590441472": {
+        "wins": 1,
+        "losses": 0,
+        "ties": 0
+      },
+      "868334811373277184": {
+        "wins": 0,
+        "losses": 1,
+        "ties": 0
+      },
+      "868907495270322176": {
+        "wins": 1,
+        "losses": 0,
+        "ties": 0
+      },
+      "721922093368827904": {
+        "wins": 0,
+        "losses": 1,
+        "ties": 0
+      },
+      "699405229212377088": {
+        "wins": 1,
+        "losses": 0,
+        "ties": 0
+      },
+      "992254609848696832": {
+        "wins": 1,
+        "losses": 0,
+        "ties": 0
+      },
+      "869290352429924352": {
+        "wins": 1,
+        "losses": 0,
+        "ties": 0
+      },
+      "721963492252385280": {
+        "wins": 0,
+        "losses": 1,
+        "ties": 0
+      }
+    },
+    "721963492252385280": {
+      "869290352429924352": {
+        "wins": 1,
+        "losses": 1,
+        "ties": 0
+      },
+      "721922093368827904": {
+        "wins": 0,
+        "losses": 2,
+        "ties": 0
+      },
+      "868907495270322176": {
+        "wins": 1,
+        "losses": 1,
+        "ties": 0
+      },
+      "1128117893658513408": {
+        "wins": 0,
+        "losses": 1,
+        "ties": 0
+      },
+      "992254609848696832": {
+        "wins": 1,
+        "losses": 0,
+        "ties": 0
+      },
+      "699405229212377088": {
+        "wins": 1,
+        "losses": 0,
+        "ties": 0
+      },
+      "868334811373277184": {
+        "wins": 0,
+        "losses": 1,
+        "ties": 0
+      },
+      "916802530590441472": {
+        "wins": 1,
+        "losses": 0,
+        "ties": 0
+      },
+      "868708583389454336": {
+        "wins": 1,
+        "losses": 0,
+        "ties": 0
+      },
+      "1026229879408320512": {
+        "wins": 1,
+        "losses": 0,
+        "ties": 0
+      }
+    },
+    "916802530590441472": {
+      "868334811373277184": {
+        "wins": 0,
+        "losses": 2,
+        "ties": 0
+      },
+      "699405229212377088": {
+        "wins": 0,
+        "losses": 2,
+        "ties": 0
+      },
+      "992254609848696832": {
+        "wins": 0,
+        "losses": 2,
+        "ties": 0
+      },
+      "1026229879408320512": {
+        "wins": 0,
+        "losses": 1,
+        "ties": 0
+      },
+      "868708583389454336": {
+        "wins": 1,
+        "losses": 0,
+        "ties": 0
+      },
+      "1128117893658513408": {
+        "wins": 0,
+        "losses": 1,
+        "ties": 0
+      },
+      "869290352429924352": {
+        "wins": 1,
+        "losses": 0,
+        "ties": 0
+      },
+      "721963492252385280": {
+        "wins": 0,
+        "losses": 1,
+        "ties": 0
+      },
+      "868907495270322176": {
+        "wins": 0,
+        "losses": 1,
+        "ties": 0
+      },
+      "721922093368827904": {
+        "wins": 0,
+        "losses": 1,
+        "ties": 0
+      }
+    }
+  }
+}

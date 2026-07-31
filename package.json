@@ -1,0 +1,17 @@
+{
+  "name": "sleeper-league-history-tool",
+  "version": "1.0.0",
+  "private": true,
+  "type": "commonjs",
+  "description": "Career-history tool for a Sleeper fantasy football league, attributed by manager (owner_id) instead of team slot (roster_id).",
+  "scripts": {
+    "build:historical": "node scripts/build-historical.js",
+    "build:current": "node scripts/build-current.js",
+    "merge": "node scripts/merge.js",
+    "build": "npm run build:current && npm run merge",
+    "build:all": "npm run build:historical && npm run build:current && npm run merge"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Head-to-Head</title>
+    <link rel="stylesheet" href="assets/style.css" />
+  </head>
+  <body>
+    <div class="app">
+      <header class="site-header">
+        <h1>Head-to-Head</h1>
+        <nav class="site-nav">
+          <a href="index.html">Leaderboard</a>
+          <a href="head-to-head.html" class="active">Head-to-Head</a>
+        </nav>
+      </header>
+
+      <section class="panel">
+        <p class="muted">Each cell shows the row manager's record against the column manager (regular season only). Read as row's Wins-Losses-Ties vs. column.</p>
+        <div id="content">Loading...</div>
+      </section>
+    </div>
+
+    <footer class="site-footer">Data from the Sleeper API, attributed by manager rather than roster slot.</footer>
+
+    <script src="assets/app.js"></script>
+    <script>
+      function renderGrid(data) {
+        const people = [...data.people].sort((a, b) => a.displayName.localeCompare(b.displayName));
+        const headToHead = data.headToHead;
+
+        const headerRow = people.map((p) => `<th>${escapeHtml(p.displayName)}</th>`).join("");
+        const bodyRows = people
+          .map((rowPerson) => {
+            const cells = people
+              .map((colPerson) => {
+                if (rowPerson.id === colPerson.id) return '<td class="diag-cell">—</td>';
+                const record = headToHead[rowPerson.id]?.[colPerson.id];
+                if (!record) return '<td class="muted">—</td>';
+                const text = record.ties ? `${record.wins}-${record.losses}-${record.ties}` : `${record.wins}-${record.losses}`;
+                return `<td>${text}</td>`;
+              })
+              .join("");
+            return `<tr><th>${escapeHtml(rowPerson.displayName)}</th>${cells}</tr>`;
+          })
+          .join("");
+
+        document.getElementById("content").innerHTML = `
+          <div class="table-scroll">
+            <table>
+              <thead><tr><th></th>${headerRow}</tr></thead>
+              <tbody>${bodyRows}</tbody>
+            </table>
+          </div>
+        `;
+      }
+
+      loadHistory()
+        .then(renderGrid)
+        .catch((error) => {
+          document.getElementById("content").textContent = `Failed to load history data: ${error.message}`;
+        });
+    </script>
+  </body>
+</html>

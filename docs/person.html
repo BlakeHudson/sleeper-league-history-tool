@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Manager History</title>
+    <link rel="stylesheet" href="assets/style.css" />
+  </head>
+  <body>
+    <div class="app">
+      <header class="site-header">
+        <h1 id="pageTitle">Manager History</h1>
+        <nav class="site-nav">
+          <a href="index.html">Leaderboard</a>
+          <a href="head-to-head.html">Head-to-Head</a>
+        </nav>
+      </header>
+
+      <section class="panel">
+        <div id="content" class="muted">Loading...</div>
+      </section>
+    </div>
+
+    <footer class="site-footer">Data from the Sleeper API, attributed by manager rather than roster slot.</footer>
+
+    <script src="assets/app.js"></script>
+    <script>
+      const params = new URLSearchParams(window.location.search);
+      const personId = params.get("id");
+
+      function renderPerson(person) {
+        document.getElementById("pageTitle").textContent = person.displayName;
+        document.title = `${person.displayName} — Manager History`;
+
+        const best = person.bestSeason;
+        const worst = person.worstSeason;
+
+        const seasonRows = person.seasons
+          .map(
+            (s) => `
+              <tr>
+                <td>${escapeHtml(s.season)}</td>
+                <td>${escapeHtml(s.teamName || "—")}</td>
+                <td>${s.ties ? `${s.wins}-${s.losses}-${s.ties}` : `${s.wins}-${s.losses}`}</td>
+                <td>${formatPoints(s.pointsFor)}</td>
+                <td>${formatPoints(s.pointsAgainst)}</td>
+                <td>${s.placement ?? "—"}</td>
+                <td>${s.madePlayoffs ? "Yes" : "No"}</td>
+                <td>${s.isChampion ? "🏆 Champion" : ""}</td>
+              </tr>
+            `
+          )
+          .join("");
+
+        document.getElementById("content").innerHTML = `
+          <div class="stat-grid">
+            <div class="stat-tile"><div class="label">Career Record</div><div class="value">${formatRecord(person)}</div></div>
+            <div class="stat-tile"><div class="label">Win %</div><div class="value">${formatPct(person.career.winPct)}</div></div>
+            <div class="stat-tile"><div class="label">Championships</div><div class="value">${person.career.championships}</div></div>
+            <div class="stat-tile"><div class="label">Playoff Appearances</div><div class="value">${person.career.playoffAppearances}</div></div>
+            <div class="stat-tile"><div class="label">Seasons Played</div><div class="value">${person.seasonsPlayed}</div></div>
+            <div class="stat-tile"><div class="label">Current Streak</div><div class="value">${person.currentStreak?.value || "—"}</div></div>
+          </div>
+
+          <div class="stat-grid">
+            <div class="stat-tile"><div class="label">Best Season</div><div class="value">${best ? `${best.season} (${best.ties ? `${best.wins}-${best.losses}-${best.ties}` : `${best.wins}-${best.losses}`})` : "—"}</div></div>
+            <div class="stat-tile"><div class="label">Worst Season</div><div class="value">${worst ? `${worst.season} (${worst.ties ? `${worst.wins}-${worst.losses}-${worst.ties}` : `${worst.wins}-${worst.losses}`})` : "—"}</div></div>
+            <div class="stat-tile"><div class="label">Total Pts For</div><div class="value">${formatPoints(person.career.pointsFor)}</div></div>
+            <div class="stat-tile"><div class="label">Total Pts Against</div><div class="value">${formatPoints(person.career.pointsAgainst)}</div></div>
+          </div>
+
+          <h2>Season by Season</h2>
+          <div class="table-scroll">
+            <table>
+              <thead>
+                <tr>
+                  <th>Season</th>
+                  <th>Team Name</th>
+                  <th>Record</th>
+                  <th>Pts For</th>
+                  <th>Pts Against</th>
+                  <th>Finish</th>
+                  <th>Playoffs</th>
+                  <th></th>
+                </tr>
+              </thead>
+              <tbody>${seasonRows}</tbody>
+            </table>
+          </div>
+        `;
+      }
+
+      if (!personId) {
+        document.getElementById("content").textContent = "No manager selected. Go back to the leaderboard and pick one.";
+      } else {
+        loadHistory()
+          .then((data) => {
+            const person = data.people.find((p) => p.id === personId);
+            if (!person) {
+              document.getElementById("content").textContent = "Manager not found.";
+              return;
+            }
+            renderPerson(person);
+          })
+          .catch((error) => {
+            document.getElementById("content").textContent = `Failed to load history data: ${error.message}`;
+          });
+      }
+    </script>
+  </body>
+</html>
