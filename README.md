@@ -29,15 +29,19 @@ Live site (after Pages is enabled — see below): `https://<your-github-username
 ## Running it locally
 
 ```bash
-npm run build:all   # full rebuild: historical + current + merge (rarely needed)
-npm run build       # just current season + merge (what the daily Action runs)
+npm start
 ```
 
-`docs/` is plain static files — open it via any static server (`fetch()` is
-blocked on `file://`), e.g.:
+Serves the `docs/` folder at `http://127.0.0.1:8080`. `docs/` is plain static
+files, so this just needs to be *some* HTTP server — `fetch()` is blocked on
+`file://`, which is the only reason a server is required at all.
+
+To pull fresh data before viewing it (optional — the repo already has
+committed data):
 
 ```bash
-npx http-server docs -p 8080
+npm run build:all   # full rebuild: historical + current + merge (rarely needed)
+npm run build       # just current season + merge (what the daily Action runs)
 ```
 
 ## Identity mapping (`config/identity-map.json`)
