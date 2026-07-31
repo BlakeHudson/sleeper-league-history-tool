@@ -9,7 +9,8 @@
     "build:current": "node scripts/build-current.js",
     "merge": "node scripts/merge.js",
     "build": "npm run build:current && npm run merge",
-    "build:all": "npm run build:historical && npm run build:current && npm run merge"
+    "build:all": "npm run build:historical && npm run build:current && npm run merge",
+    "start": "npx http-server docs -p 8080 -c-1"
   },
   "engines": {
     "node": ">=18"
