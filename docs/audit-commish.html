@@ -1,0 +1,274 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Commissioner Control Panel</title>
+    <style>
+      * {
+        box-sizing: border-box;
+      }
+      body {
+        margin: 0;
+        font-family: "Segoe UI", Roboto, system-ui, sans-serif;
+        background: #0d1117;
+        color: #c9d1d9;
+      }
+      .shell {
+        display: grid;
+        grid-template-columns: 220px 1fr;
+        min-height: 100vh;
+      }
+      .sidebar {
+        background: #010409;
+        border-right: 1px solid #21262d;
+        padding: 20px 16px;
+      }
+      .sidebar .logo {
+        font-weight: 900;
+        letter-spacing: 0.06em;
+        color: #f0883e;
+        font-size: 1.2em;
+        margin-bottom: 24px;
+      }
+      .sidebar .logo span {
+        color: #58a6ff;
+      }
+      .sidebar nav a {
+        display: block;
+        color: #8b949e;
+        text-decoration: none;
+        padding: 9px 10px;
+        border-radius: 6px;
+        font-size: 0.9em;
+        margin-bottom: 2px;
+      }
+      .sidebar nav a.active {
+        background: #161b22;
+        color: #f0883e;
+        font-weight: 600;
+      }
+      main {
+        padding: 28px 32px;
+        max-width: 1000px;
+      }
+      .alert-banner {
+        background: linear-gradient(90deg, #7d1f1f, #3a0d0d);
+        border: 1px solid #f85149;
+        color: #ffdcd7;
+        padding: 12px 16px;
+        border-radius: 8px;
+        font-weight: 700;
+        letter-spacing: 0.02em;
+        margin-bottom: 20px;
+        display: flex;
+        align-items: center;
+        gap: 10px;
+      }
+      .alert-banner .dot {
+        width: 10px;
+        height: 10px;
+        border-radius: 50%;
+        background: #f85149;
+        box-shadow: 0 0 8px 2px rgba(248, 81, 73, 0.7);
+        animation: blink 1s infinite;
+      }
+      @keyframes blink {
+        50% { opacity: 0.2; }
+      }
+      h1 {
+        margin: 0 0 4px;
+        font-size: 1.6em;
+      }
+      .subtitle {
+        color: #8b949e;
+        margin-bottom: 20px;
+        font-size: 0.95em;
+      }
+      .panel {
+        background: #161b22;
+        border: 1px solid #21262d;
+        border-radius: 10px;
+        padding: 18px;
+        margin-bottom: 20px;
+      }
+      .panel h2 {
+        margin-top: 0;
+        font-size: 1.05em;
+        color: #f0883e;
+      }
+      table {
+        width: 100%;
+        border-collapse: collapse;
+        font-size: 0.88em;
+      }
+      th, td {
+        text-align: left;
+        padding: 8px 10px;
+        border-bottom: 1px solid #21262d;
+        white-space: nowrap;
+      }
+      th {
+        color: #8b949e;
+        font-weight: 600;
+        text-transform: uppercase;
+        font-size: 0.78em;
+        letter-spacing: 0.04em;
+      }
+      td.delta-down {
+        color: #f85149;
+        font-weight: 700;
+      }
+      td.delta-up {
+        color: #3fb950;
+        font-weight: 700;
+      }
+      .reason {
+        color: #d2a8ff;
+        font-style: italic;
+      }
+      .terminal {
+        background: #010409;
+        border: 1px solid #21262d;
+        border-radius: 8px;
+        padding: 14px 16px;
+        font-family: "SF Mono", Consolas, monospace;
+        font-size: 0.85em;
+        color: #3fb950;
+        min-height: 150px;
+        white-space: pre-wrap;
+        line-height: 1.6;
+      }
+      .cursor {
+        display: inline-block;
+        width: 7px;
+        height: 14px;
+        background: #3fb950;
+        animation: blink 0.8s infinite;
+        vertical-align: text-bottom;
+        margin-left: 2px;
+      }
+      .disclaimer {
+        margin-top: 24px;
+        padding: 14px 16px;
+        border: 1px dashed #30363d;
+        border-radius: 8px;
+        color: #8b949e;
+        font-size: 0.85em;
+        line-height: 1.5;
+      }
+      .disclaimer strong {
+        color: #c9d1d9;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="shell">
+      <aside class="sidebar">
+        <div class="logo">SLEEPER<span>.</span></div>
+        <nav>
+          <a href="#">Home</a>
+          <a href="#">My Team</a>
+          <a href="#">Matchups</a>
+          <a href="#">Players</a>
+          <a class="active" href="#">Commissioner</a>
+        </nav>
+      </aside>
+      <main>
+        <div class="alert-banner"><span class="dot"></span> RESTRICTED ACCESS — LIVE AUDIT MODE — COMMISSIONER ONLY</div>
+        <h1>Commissioner Control Panel</h1>
+        <div class="subtitle">Welcome back, commissioner. Here's what's been "corrected" recently.</div>
+
+        <div class="panel">
+          <h2>Recent Score Adjustments</h2>
+          <table>
+            <thead>
+              <tr>
+                <th>Week</th>
+                <th>Manager</th>
+                <th>Original</th>
+                <th>Adjusted</th>
+                <th>Delta</th>
+                <th>Reason</th>
+                <th>Adjusted By</th>
+              </tr>
+            </thead>
+            <tbody id="auditRows"></tbody>
+          </table>
+        </div>
+
+        <div class="panel">
+          <h2>System Log</h2>
+          <div class="terminal" id="terminal"></div>
+        </div>
+
+        <div class="disclaimer">
+          <strong>This page is entirely fake.</strong> No scores have ever been adjusted, no
+          commissioner has ever touched anyone's points, and this "control panel" isn't a
+          real thing Sleeper has — it's a joke page hand-built for this league's history
+          site. Please continue blaming your own lineup decisions.
+        </div>
+      </main>
+    </div>
+
+    <script>
+      const entries = [
+        { week: 4, manager: "GeauxGibbs", original: 118.42, adjusted: 96.10, reason: "insufficient trash talk in group chat", by: "commish" },
+        { week: 7, manager: "Izzy3608", original: 104.88, adjusted: 121.30, reason: "commissioner felt bad, reversed own call", by: "commish" },
+        { week: 9, manager: "ChuckBlazer", original: 132.55, adjusted: 109.55, reason: "won too easily, needed humbling", by: "commish" },
+        { week: 11, manager: "Buzzdilla", original: 97.20, adjusted: 97.20, reason: "audited, found clean, no action taken", by: "system" },
+        { week: 13, manager: "kayla12345", original: 88.60, adjusted: 101.40, reason: "playoff drama required", by: "commish" },
+        { week: 14, manager: "spena", original: 140.10, adjusted: 118.00, reason: "flex play was 'too spicy'", by: "commish" }
+      ];
+
+      const rows = entries
+        .map((e) => {
+          const delta = Number((e.adjusted - e.original).toFixed(2));
+          const deltaClass = delta > 0 ? "delta-up" : delta < 0 ? "delta-down" : "";
+          const deltaText = delta > 0 ? `+${delta.toFixed(2)}` : delta.toFixed(2);
+          return `
+            <tr>
+              <td>${e.week}</td>
+              <td>${e.manager}</td>
+              <td>${e.original.toFixed(2)}</td>
+              <td>${e.adjusted.toFixed(2)}</td>
+              <td class="${deltaClass}">${deltaText}</td>
+              <td class="reason">"${e.reason}"</td>
+              <td>${e.by}</td>
+            </tr>
+          `;
+        })
+        .join("");
+      document.getElementById("auditRows").innerHTML = rows;
+
+      const logLines = [
+        "> initializing audit trail...",
+        "> scanning 5 seasons, 20 managers...",
+        "> checking for commissioner tampering... ",
+        "> ...",
+        "> result: NOTHING TO SEE HERE.",
+        "> (this entire page is a joke, please laugh)"
+      ];
+      const terminal = document.getElementById("terminal");
+      let lineIndex = 0;
+      let charIndex = 0;
+
+      function typeNextChar() {
+        if (lineIndex >= logLines.length) return;
+        const currentLine = logLines[lineIndex];
+        if (charIndex === 0) terminal.textContent += (lineIndex > 0 ? "\n" : "");
+        terminal.textContent = terminal.textContent.replace(/▍$/, "");
+        terminal.textContent += currentLine[charIndex] + "▍";
+        charIndex += 1;
+        if (charIndex >= currentLine.length) {
+          lineIndex += 1;
+          charIndex = 0;
+          setTimeout(typeNextChar, 400);
+        } else {
+          setTimeout(typeNextChar, 22);
+        }
+      }
+      typeNextChar();
+    </script>
+  </body>
+</html>
