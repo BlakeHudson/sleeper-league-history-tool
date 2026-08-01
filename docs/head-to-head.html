@@ -44,14 +44,14 @@
                 return `<td>${text}</td>`;
               })
               .join("");
-            return `<tr><th>${escapeHtml(rowPerson.displayName)}</th>${cells}</tr>`;
+            return `<tr><th class="row-header">${escapeHtml(rowPerson.displayName)}</th>${cells}</tr>`;
           })
           .join("");
 
         document.getElementById("content").innerHTML = `
           <div class="table-scroll">
             <table>
-              <thead><tr><th></th>${headerRow}</tr></thead>
+              <thead><tr><th class="corner-cell"></th>${headerRow}</tr></thead>
               <tbody>${bodyRows}</tbody>
             </table>
           </div>
