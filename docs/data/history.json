@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-26T13:49:10.707Z",
+  "generatedAt": "2026-08-27T22:43:23.638Z",
   "sourceLeagueId": "1388349774029164544",
   "seasonsCovered": [
     "2022",
@@ -143,7 +143,7 @@
         },
         {
           "season": "2026",
-          "teamName": "Flex Appeal",
+          "teamName": "Mostly Held Together",
           "wins": 0,
           "losses": 0,
           "ties": 0,
@@ -182,7 +182,7 @@
       },
       "worstSeason": {
         "season": "2026",
-        "teamName": "Flex Appeal",
+        "teamName": "Mostly Held Together",
         "wins": 0,
         "losses": 0,
         "ties": 0,
@@ -195,7 +195,7 @@
       },
       "mostRecentSeason": {
         "season": "2026",
-        "teamName": "Flex Appeal",
+        "teamName": "Mostly Held Together",
         "wins": 0,
         "losses": 0,
         "ties": 0,
