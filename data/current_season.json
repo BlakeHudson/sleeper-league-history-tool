@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-06T15:56:25.437Z",
+  "generatedAt": "2026-09-07T18:02:03.177Z",
   "sourceLeagueId": "1388349774029164544",
   "season": {
     "season": "2026",
@@ -88,7 +88,7 @@
         "pointsFor": 0,
         "pointsAgainst": 0,
         "placement": null,
-        "madePlayoffs": true,
+        "madePlayoffs": false,
         "isChampion": false,
         "streak": null
       },
@@ -96,7 +96,7 @@
         "rosterId": 6,
         "ownerId": "1255661919939874816",
         "coOwnerIds": [],
-        "teamName": "Waterboy",
+        "teamName": "LaPorta Potty",
         "displayName": "jwilmil",
         "avatar": "530819055c4e3eea7d733dcc9a9119ad",
         "wins": 0,
@@ -105,7 +105,7 @@
         "pointsFor": 0,
         "pointsAgainst": 0,
         "placement": null,
-        "madePlayoffs": false,
+        "madePlayoffs": true,
         "isChampion": false,
         "streak": null
       },
@@ -130,7 +130,7 @@
         "rosterId": 8,
         "ownerId": "868334811373277184",
         "coOwnerIds": [],
-        "teamName": "Cookin’ with CMC",
+        "teamName": "Mcbridesmaids",
         "displayName": "Izzy3608",
         "avatar": "cab70f64437c300da5aaaa59b7df1b20",
         "wins": 0,
@@ -173,7 +173,7 @@
         "pointsFor": 0,
         "pointsAgainst": 0,
         "placement": null,
-        "madePlayoffs": true,
+        "madePlayoffs": false,
         "isChampion": false,
         "streak": null
       },
@@ -207,11 +207,600 @@
         "pointsFor": 0,
         "pointsAgainst": 0,
         "placement": null,
-        "madePlayoffs": false,
+        "madePlayoffs": true,
         "isChampion": false,
         "streak": null
       }
     ],
-    "headToHead": []
+    "headToHead": [
+      {
+        "week": 1,
+        "rosterA": 1,
+        "rosterB": 4,
+        "scoreA": 0,
+        "scoreB": 0
+      },
+      {
+        "week": 1,
+        "rosterA": 2,
+        "rosterB": 9,
+        "scoreA": 0,
+        "scoreB": 0
+      },
+      {
+        "week": 1,
+        "rosterA": 3,
+        "rosterB": 6,
+        "scoreA": 0,
+        "scoreB": 0
+      },
+      {
+        "week": 1,
+        "rosterA": 5,
+        "rosterB": 12,
+        "scoreA": 0,
+        "scoreB": 0
+      },
+      {
+        "week": 1,
+        "rosterA": 7,
+        "rosterB": 11,
+        "scoreA": 0,
+        "scoreB": 0
+      },
+      {
+        "week": 1,
+        "rosterA": 8,
+        "rosterB": 10,
+        "scoreA": 0,
+        "scoreB": 0
+      },
+      {
+        "week": 2,
+        "rosterA": 1,
+        "rosterB": 7,
+        "scoreA": 0,
+        "scoreB": 0
+      },
+      {
+        "week": 2,
+        "rosterA": 2,
+        "rosterB": 11,
+        "scoreA": 0,
+        "scoreB": 0
+      },
+      {
+        "week": 2,
+        "rosterA": 3,
+        "rosterB": 4,
+        "scoreA": 0,
+        "scoreB": 0
+      },
+      {
+        "week": 2,
+        "rosterA": 5,
+        "rosterB": 9,
+        "scoreA": 0,
+        "scoreB": 0
+      },
+      {
+        "week": 2,
+        "rosterA": 6,
+        "rosterB": 10,
+        "scoreA": 0,
+        "scoreB": 0
+      },
+      {
+        "week": 2,
+        "rosterA": 8,
+        "rosterB": 12,
+        "scoreA": 0,
+        "scoreB": 0
+      },
+      {
+        "week": 3,
+        "rosterA": 1,
+        "rosterB": 2,
+        "scoreA": 0,
+        "scoreB": 0
+      },
+      {
+        "week": 3,
+        "rosterA": 3,
+        "rosterB": 7,
+        "scoreA": 0,
+        "scoreB": 0
+      },
+      {
+        "week": 3,
+        "rosterA": 4,
+        "rosterB": 10,
+        "scoreA": 0,
+        "scoreB": 0
+      },
+      {
+        "week": 3,
+        "rosterA": 5,
+        "rosterB": 11,
+        "scoreA": 0,
+        "scoreB": 0
+      },
+      {
+        "week": 3,
+        "rosterA": 6,
+        "rosterB": 8,
+        "scoreA": 0,
+        "scoreB": 0
+      },
+      {
+        "week": 3,
+        "rosterA": 9,
+        "rosterB": 12,
+        "scoreA": 0,
+        "scoreB": 0
+      },
+      {
+        "week": 4,
+        "rosterA": 1,
+        "rosterB": 5,
+        "scoreA": 0,
+        "scoreB": 0
+      },
+      {
+        "week": 4,
+        "rosterA": 2,
+        "rosterB": 3,
+        "scoreA": 0,
+        "scoreB": 0
+      },
+      {
+        "week": 4,
+        "rosterA": 4,
+        "rosterB": 6,
+        "scoreA": 0,
+        "scoreB": 0
+      },
+      {
+        "week": 4,
+        "rosterA": 7,
+        "rosterB": 10,
+        "scoreA": 0,
+        "scoreB": 0
+      },
+      {
+        "week": 4,
+        "rosterA": 8,
+        "rosterB": 9,
+        "scoreA": 0,
+        "scoreB": 0
+      },
+      {
+        "week": 4,
+        "rosterA": 11,
+        "rosterB": 12,
+        "scoreA": 0,
+        "scoreB": 0
+      },
+      {
+        "week": 5,
+        "rosterA": 1,
+        "rosterB": 12,
+        "scoreA": 0,
+        "scoreB": 0
+      },
+      {
+        "week": 5,
+        "rosterA": 2,
+        "rosterB": 10,
+        "scoreA": 0,
+        "scoreB": 0
+      },
+      {
+        "week": 5,
+        "rosterA": 3,
+        "rosterB": 5,
+        "scoreA": 0,
+        "scoreB": 0
+      },
+      {
+        "week": 5,
+        "rosterA": 4,
+        "rosterB": 8,
+        "scoreA": 0,
+        "scoreB": 0
+      },
+      {
+        "week": 5,
+        "rosterA": 6,
+        "rosterB": 7,
+        "scoreA": 0,
+        "scoreB": 0
+      },
+      {
+        "week": 5,
+        "rosterA": 9,
+        "rosterB": 11,
+        "scoreA": 0,
+        "scoreB": 0
+      },
+      {
+        "week": 6,
+        "rosterA": 1,
+        "rosterB": 9,
+        "scoreA": 0,
+        "scoreB": 0
+      },
+      {
+        "week": 6,
+        "rosterA": 2,
+        "rosterB": 6,
+        "scoreA": 0,
+        "scoreB": 0
+      },
+      {
+        "week": 6,
+        "rosterA": 3,
+        "rosterB": 12,
+        "scoreA": 0,
+        "scoreB": 0
+      },
+      {
+        "week": 6,
+        "rosterA": 4,
+        "rosterB": 7,
+        "scoreA": 0,
+        "scoreB": 0
+      },
+      {
+        "week": 6,
+        "rosterA": 5,
+        "rosterB": 10,
+        "scoreA": 0,
+        "scoreB": 0
+      },
+      {
+        "week": 6,
+        "rosterA": 8,
+        "rosterB": 11,
+        "scoreA": 0,
+        "scoreB": 0
+      },
+      {
+        "week": 7,
+        "rosterA": 1,
+        "rosterB": 11,
+        "scoreA": 0,
+        "scoreB": 0
+      },
+      {
+        "week": 7,
+        "rosterA": 2,
+        "rosterB": 4,
+        "scoreA": 0,
+        "scoreB": 0
+      },
+      {
+        "week": 7,
+        "rosterA": 3,
+        "rosterB": 9,
+        "scoreA": 0,
+        "scoreB": 0
+      },
+      {
+        "week": 7,
+        "rosterA": 5,
+        "rosterB": 6,
+        "scoreA": 0,
+        "scoreB": 0
+      },
+      {
+        "week": 7,
+        "rosterA": 7,
+        "rosterB": 8,
+        "scoreA": 0,
+        "scoreB": 0
+      },
+      {
+        "week": 7,
+        "rosterA": 10,
+        "rosterB": 12,
+        "scoreA": 0,
+        "scoreB": 0
+      },
+      {
+        "week": 8,
+        "rosterA": 1,
+        "rosterB": 8,
+        "scoreA": 0,
+        "scoreB": 0
+      },
+      {
+        "week": 8,
+        "rosterA": 2,
+        "rosterB": 7,
+        "scoreA": 0,
+        "scoreB": 0
+      },
+      {
+        "week": 8,
+        "rosterA": 3,
+        "rosterB": 11,
+        "scoreA": 0,
+        "scoreB": 0
+      },
+      {
+        "week": 8,
+        "rosterA": 4,
+        "rosterB": 5,
+        "scoreA": 0,
+        "scoreB": 0
+      },
+      {
+        "week": 8,
+        "rosterA": 6,
+        "rosterB": 12,
+        "scoreA": 0,
+        "scoreB": 0
+      },
+      {
+        "week": 8,
+        "rosterA": 9,
+        "rosterB": 10,
+        "scoreA": 0,
+        "scoreB": 0
+      },
+      {
+        "week": 9,
+        "rosterA": 1,
+        "rosterB": 3,
+        "scoreA": 0,
+        "scoreB": 0
+      },
+      {
+        "week": 9,
+        "rosterA": 2,
+        "rosterB": 8,
+        "scoreA": 0,
+        "scoreB": 0
+      },
+      {
+        "week": 9,
+        "rosterA": 4,
+        "rosterB": 12,
+        "scoreA": 0,
+        "scoreB": 0
+      },
+      {
+        "week": 9,
+        "rosterA": 5,
+        "rosterB": 7,
+        "scoreA": 0,
+        "scoreB": 0
+      },
+      {
+        "week": 9,
+        "rosterA": 6,
+        "rosterB": 9,
+        "scoreA": 0,
+        "scoreB": 0
+      },
+      {
+        "week": 9,
+        "rosterA": 10,
+        "rosterB": 11,
+        "scoreA": 0,
+        "scoreB": 0
+      },
+      {
+        "week": 10,
+        "rosterA": 1,
+        "rosterB": 10,
+        "scoreA": 0,
+        "scoreB": 0
+      },
+      {
+        "week": 10,
+        "rosterA": 2,
+        "rosterB": 5,
+        "scoreA": 0,
+        "scoreB": 0
+      },
+      {
+        "week": 10,
+        "rosterA": 3,
+        "rosterB": 8,
+        "scoreA": 0,
+        "scoreB": 0
+      },
+      {
+        "week": 10,
+        "rosterA": 4,
+        "rosterB": 9,
+        "scoreA": 0,
+        "scoreB": 0
+      },
+      {
+        "week": 10,
+        "rosterA": 6,
+        "rosterB": 11,
+        "scoreA": 0,
+        "scoreB": 0
+      },
+      {
+        "week": 10,
+        "rosterA": 7,
+        "rosterB": 12,
+        "scoreA": 0,
+        "scoreB": 0
+      },
+      {
+        "week": 11,
+        "rosterA": 1,
+        "rosterB": 6,
+        "scoreA": 0,
+        "scoreB": 0
+      },
+      {
+        "week": 11,
+        "rosterA": 2,
+        "rosterB": 12,
+        "scoreA": 0,
+        "scoreB": 0
+      },
+      {
+        "week": 11,
+        "rosterA": 3,
+        "rosterB": 10,
+        "scoreA": 0,
+        "scoreB": 0
+      },
+      {
+        "week": 11,
+        "rosterA": 4,
+        "rosterB": 11,
+        "scoreA": 0,
+        "scoreB": 0
+      },
+      {
+        "week": 11,
+        "rosterA": 5,
+        "rosterB": 8,
+        "scoreA": 0,
+        "scoreB": 0
+      },
+      {
+        "week": 11,
+        "rosterA": 7,
+        "rosterB": 9,
+        "scoreA": 0,
+        "scoreB": 0
+      },
+      {
+        "week": 12,
+        "rosterA": 1,
+        "rosterB": 4,
+        "scoreA": 0,
+        "scoreB": 0
+      },
+      {
+        "week": 12,
+        "rosterA": 2,
+        "rosterB": 9,
+        "scoreA": 0,
+        "scoreB": 0
+      },
+      {
+        "week": 12,
+        "rosterA": 3,
+        "rosterB": 6,
+        "scoreA": 0,
+        "scoreB": 0
+      },
+      {
+        "week": 12,
+        "rosterA": 5,
+        "rosterB": 12,
+        "scoreA": 0,
+        "scoreB": 0
+      },
+      {
+        "week": 12,
+        "rosterA": 7,
+        "rosterB": 11,
+        "scoreA": 0,
+        "scoreB": 0
+      },
+      {
+        "week": 12,
+        "rosterA": 8,
+        "rosterB": 10,
+        "scoreA": 0,
+        "scoreB": 0
+      },
+      {
+        "week": 13,
+        "rosterA": 1,
+        "rosterB": 7,
+        "scoreA": 0,
+        "scoreB": 0
+      },
+      {
+        "week": 13,
+        "rosterA": 2,
+        "rosterB": 11,
+        "scoreA": 0,
+        "scoreB": 0
+      },
+      {
+        "week": 13,
+        "rosterA": 3,
+        "rosterB": 4,
+        "scoreA": 0,
+        "scoreB": 0
+      },
+      {
+        "week": 13,
+        "rosterA": 5,
+        "rosterB": 9,
+        "scoreA": 0,
+        "scoreB": 0
+      },
+      {
+        "week": 13,
+        "rosterA": 6,
+        "rosterB": 10,
+        "scoreA": 0,
+        "scoreB": 0
+      },
+      {
+        "week": 13,
+        "rosterA": 8,
+        "rosterB": 12,
+        "scoreA": 0,
+        "scoreB": 0
+      },
+      {
+        "week": 14,
+        "rosterA": 1,
+        "rosterB": 2,
+        "scoreA": 0,
+        "scoreB": 0
+      },
+      {
+        "week": 14,
+        "rosterA": 3,
+        "rosterB": 7,
+        "scoreA": 0,
+        "scoreB": 0
+      },
+      {
+        "week": 14,
+        "rosterA": 4,
+        "rosterB": 10,
+        "scoreA": 0,
+        "scoreB": 0
+      },
+      {
+        "week": 14,
+        "rosterA": 5,
+        "rosterB": 11,
+        "scoreA": 0,
+        "scoreB": 0
+      },
+      {
+        "week": 14,
+        "rosterA": 6,
+        "rosterB": 8,
+        "scoreA": 0,
+        "scoreB": 0
+      },
+      {
+        "week": 14,
+        "rosterA": 9,
+        "rosterB": 12,
+        "scoreA": 0,
+        "scoreB": 0
+      }
+    ]
   }
 }
