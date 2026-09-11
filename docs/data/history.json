@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-10T16:50:35.515Z",
+  "generatedAt": "2026-09-11T16:50:53.863Z",
   "sourceLeagueId": "1388349774029164544",
   "seasonsCovered": [
     "2022",
@@ -1521,7 +1521,7 @@
         },
         {
           "season": "2026",
-          "teamName": "Koo Koo 4 Koo",
+          "teamName": "McConkey Kong",
           "wins": 0,
           "losses": 0,
           "ties": 0,
@@ -1560,7 +1560,7 @@
       },
       "worstSeason": {
         "season": "2026",
-        "teamName": "Koo Koo 4 Koo",
+        "teamName": "McConkey Kong",
         "wins": 0,
         "losses": 0,
         "ties": 0,
@@ -1573,7 +1573,7 @@
       },
       "mostRecentSeason": {
         "season": "2026",
-        "teamName": "Koo Koo 4 Koo",
+        "teamName": "McConkey Kong",
         "wins": 0,
         "losses": 0,
         "ties": 0,
@@ -2438,9 +2438,9 @@
         "ties": 1
       },
       "1255661919939874816": {
-        "wins": 0,
+        "wins": 1,
         "losses": 0,
-        "ties": 2
+        "ties": 1
       }
     },
     "864949273853308928": {
@@ -2587,9 +2587,9 @@
         "ties": 1
       },
       "1128117893658513408": {
-        "wins": 0,
+        "wins": 1,
         "losses": 3,
-        "ties": 2
+        "ties": 1
       },
       "1130917842167361536": {
         "wins": 0,
@@ -3079,8 +3079,8 @@
         "ties": 0
       },
       "916802530590441472": {
-        "wins": 3,
-        "losses": 0,
+        "wins": 2,
+        "losses": 1,
         "ties": 1
       },
       "721963492252385280": {
@@ -3159,8 +3159,8 @@
     "1128117893658513408": {
       "869290352429924352": {
         "wins": 3,
-        "losses": 0,
-        "ties": 2
+        "losses": 1,
+        "ties": 1
       },
       "699405229212377088": {
         "wins": 1,
@@ -3416,8 +3416,8 @@
         "ties": 1
       },
       "992254609848696832": {
-        "wins": 0,
-        "losses": 3,
+        "wins": 1,
+        "losses": 2,
         "ties": 1
       },
       "1026229879408320512": {
@@ -3464,8 +3464,8 @@
     "1255661919939874816": {
       "868907495270322176": {
         "wins": 0,
-        "losses": 0,
-        "ties": 2
+        "losses": 1,
+        "ties": 1
       },
       "721963492252385280": {
         "wins": 0,

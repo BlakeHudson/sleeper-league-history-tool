@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-10T16:50:35.353Z",
+  "generatedAt": "2026-09-11T16:50:53.711Z",
   "sourceLeagueId": "1388349774029164544",
   "season": {
     "season": "2026",
@@ -113,7 +113,7 @@
         "rosterId": 7,
         "ownerId": "699405229212377088",
         "coOwnerIds": [],
-        "teamName": "Koo Koo 4 Koo",
+        "teamName": "McConkey Kong",
         "displayName": "SoySauceLife",
         "avatar": "8eb8f8bf999945d523f2c4033f70473e",
         "wins": 0,
@@ -218,27 +218,27 @@
         "rosterA": 1,
         "rosterB": 4,
         "scoreA": 0,
-        "scoreB": 4.1
+        "scoreB": 20.1
       },
       {
         "week": 1,
         "rosterA": 2,
         "rosterB": 9,
         "scoreA": 18.8,
-        "scoreB": 0
+        "scoreB": 24.8
       },
       {
         "week": 1,
         "rosterA": 3,
         "rosterB": 6,
-        "scoreA": 0,
+        "scoreA": 2.2,
         "scoreB": 0
       },
       {
         "week": 1,
         "rosterA": 5,
         "rosterB": 12,
-        "scoreA": 0,
+        "scoreA": 14,
         "scoreB": 0
       },
       {
@@ -246,14 +246,14 @@
         "rosterA": 7,
         "rosterB": 11,
         "scoreA": 0,
-        "scoreB": 18.1
+        "scoreB": 29.4
       },
       {
         "week": 1,
         "rosterA": 8,
         "rosterB": 10,
         "scoreA": 22.2,
-        "scoreB": 23.82
+        "scoreB": 27.92
       },
       {
         "week": 2,
