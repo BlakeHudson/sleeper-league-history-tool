@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-26T16:50:37.826Z",
+  "generatedAt": "2026-09-27T17:23:16.090Z",
   "sourceLeagueId": "1388349774029164544",
   "seasonsCovered": [
     "2022",
@@ -1847,7 +1847,7 @@
         },
         {
           "season": "2026",
-          "teamName": "RussellMania",
+          "teamName": "Puka n Rally",
           "wins": 2,
           "losses": 0,
           "ties": 0,
@@ -1873,7 +1873,7 @@
       "seasonsPlayed": 2,
       "bestSeason": {
         "season": "2026",
-        "teamName": "RussellMania",
+        "teamName": "Puka n Rally",
         "wins": 2,
         "losses": 0,
         "ties": 0,
@@ -1899,7 +1899,7 @@
       },
       "mostRecentSeason": {
         "season": "2026",
-        "teamName": "RussellMania",
+        "teamName": "Puka n Rally",
         "wins": 2,
         "losses": 0,
         "ties": 0,
@@ -2202,8 +2202,8 @@
         "ties": 1
       },
       "721963492252385280": {
-        "wins": 0,
-        "losses": 2,
+        "wins": 1,
+        "losses": 1,
         "ties": 1
       },
       "1255661919939874816": {
@@ -3224,8 +3224,8 @@
       },
       "916802530590441472": {
         "wins": 1,
-        "losses": 0,
-        "ties": 2
+        "losses": 1,
+        "ties": 1
       },
       "1255661919939874816": {
         "wins": 0,
@@ -3389,8 +3389,8 @@
         "ties": 1
       },
       "868708583389454336": {
-        "wins": 2,
-        "losses": 0,
+        "wins": 1,
+        "losses": 1,
         "ties": 1
       },
       "1026229879408320512": {
@@ -3431,9 +3431,9 @@
         "ties": 1
       },
       "1128117893658513408": {
-        "wins": 0,
+        "wins": 1,
         "losses": 1,
-        "ties": 2
+        "ties": 1
       },
       "869290352429924352": {
         "wins": 2,

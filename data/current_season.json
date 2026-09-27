@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-26T16:50:37.683Z",
+  "generatedAt": "2026-09-27T17:23:15.931Z",
   "sourceLeagueId": "1388349774029164544",
   "season": {
     "season": "2026",
@@ -147,7 +147,7 @@
         "rosterId": 9,
         "ownerId": "916802530590441472",
         "coOwnerIds": [],
-        "teamName": "RussellMania",
+        "teamName": "Puka n Rally",
         "displayName": "DucksofAFeather",
         "avatar": "15d7cf259bc30eab8f6120f45f652fb6",
         "wins": 2,
@@ -301,43 +301,43 @@
         "week": 3,
         "rosterA": 1,
         "rosterB": 2,
-        "scoreA": 23.9,
-        "scoreB": 0
+        "scoreA": 50.02,
+        "scoreB": -0.3
       },
       {
         "week": 3,
         "rosterA": 3,
         "rosterB": 7,
-        "scoreA": 19.1,
-        "scoreB": 0
+        "scoreA": 32.06,
+        "scoreB": 8.6
       },
       {
         "week": 3,
         "rosterA": 4,
         "rosterB": 10,
-        "scoreA": 0,
-        "scoreB": 1
+        "scoreA": 14.4,
+        "scoreB": 13.22
       },
       {
         "week": 3,
         "rosterA": 5,
         "rosterB": 11,
-        "scoreA": 38.9,
-        "scoreB": 0
+        "scoreA": 50.06,
+        "scoreB": 10.24
       },
       {
         "week": 3,
         "rosterA": 6,
         "rosterB": 8,
-        "scoreA": 18.5,
-        "scoreB": 0
+        "scoreA": 28.92,
+        "scoreB": 17.3
       },
       {
         "week": 3,
         "rosterA": 9,
         "rosterB": 12,
-        "scoreA": 0,
-        "scoreB": 0
+        "scoreA": 17.3,
+        "scoreB": 14.94
       },
       {
         "week": 4,
