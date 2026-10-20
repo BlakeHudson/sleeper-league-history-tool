@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19T18:56:21.902Z",
+  "generatedAt": "2026-10-20T17:42:55.353Z",
   "sourceLeagueId": "1388349774029164544",
   "season": {
     "season": "2026",
@@ -14,15 +14,15 @@
         "teamName": "Wet with Sweat",
         "displayName": "Buzzdilla",
         "avatar": "1d76df4a26b1f854d4fd1347d5529729",
-        "wins": 3,
+        "wins": 4,
         "losses": 2,
         "ties": 0,
-        "pointsFor": 685.18,
-        "pointsAgainst": 575.96,
+        "pointsFor": 812.26,
+        "pointsAgainst": 677.08,
         "placement": null,
         "madePlayoffs": true,
         "isChampion": false,
-        "streak": "2L"
+        "streak": "1W"
       },
       {
         "rosterId": 2,
@@ -32,14 +32,14 @@
         "displayName": "kayla12345",
         "avatar": "82aec8e811b839b8ec25d7b458afd57b",
         "wins": 1,
-        "losses": 4,
+        "losses": 5,
         "ties": 0,
-        "pointsFor": 528.34,
-        "pointsAgainst": 704.18,
+        "pointsFor": 630,
+        "pointsAgainst": 818.02,
         "placement": null,
         "madePlayoffs": false,
         "isChampion": false,
-        "streak": "3L"
+        "streak": "4L"
       },
       {
         "rosterId": 3,
@@ -48,15 +48,15 @@
         "teamName": "La Muerte Peluda",
         "displayName": "LaMuertePeluda",
         "avatar": "f9dbe8fe67c08503a11b077528bbad64",
-        "wins": 5,
+        "wins": 6,
         "losses": 0,
         "ties": 0,
-        "pointsFor": 648.46,
-        "pointsAgainst": 531.34,
+        "pointsFor": 780.16,
+        "pointsAgainst": 641.68,
         "placement": null,
         "madePlayoffs": true,
         "isChampion": false,
-        "streak": "5W"
+        "streak": "6W"
       },
       {
         "rosterId": 4,
@@ -66,14 +66,14 @@
         "displayName": "GeauxGibbs",
         "avatar": "4f4090e5e9c3941414db40a871e3e909",
         "wins": 1,
-        "losses": 4,
+        "losses": 5,
         "ties": 0,
-        "pointsFor": 520.8,
-        "pointsAgainst": 610.62,
+        "pointsFor": 628.14,
+        "pointsAgainst": 718.9,
         "placement": null,
         "madePlayoffs": false,
         "isChampion": false,
-        "streak": "2L"
+        "streak": "3L"
       },
       {
         "rosterId": 5,
@@ -83,14 +83,14 @@
         "displayName": "spena",
         "avatar": "82aec8e811b839b8ec25d7b458afd57b",
         "wins": 3,
-        "losses": 2,
+        "losses": 3,
         "ties": 0,
-        "pointsFor": 640.88,
-        "pointsAgainst": 594.44,
+        "pointsFor": 733.1,
+        "pointsAgainst": 721.74,
         "placement": null,
         "madePlayoffs": true,
         "isChampion": false,
-        "streak": "1L"
+        "streak": "2L"
       },
       {
         "rosterId": 6,
@@ -99,15 +99,15 @@
         "teamName": "Prestige Worldwide",
         "displayName": "jwilmil",
         "avatar": "530819055c4e3eea7d733dcc9a9119ad",
-        "wins": 3,
+        "wins": 4,
         "losses": 2,
         "ties": 0,
-        "pointsFor": 580.84,
-        "pointsAgainst": 592.12,
+        "pointsFor": 694.68,
+        "pointsAgainst": 693.78,
         "placement": null,
-        "madePlayoffs": false,
+        "madePlayoffs": true,
         "isChampion": false,
-        "streak": "2W"
+        "streak": "3W"
       },
       {
         "rosterId": 7,
@@ -116,15 +116,15 @@
         "teamName": "McConkey Kong",
         "displayName": "SoySauceLife",
         "avatar": "8eb8f8bf999945d523f2c4033f70473e",
-        "wins": 1,
+        "wins": 2,
         "losses": 4,
         "ties": 0,
-        "pointsFor": 505.48,
-        "pointsAgainst": 592.18,
+        "pointsFor": 613.76,
+        "pointsAgainst": 699.52,
         "placement": null,
         "madePlayoffs": false,
         "isChampion": false,
-        "streak": "4L"
+        "streak": "1W"
       },
       {
         "rosterId": 8,
@@ -134,14 +134,14 @@
         "displayName": "Izzy3608",
         "avatar": "cab70f64437c300da5aaaa59b7df1b20",
         "wins": 4,
-        "losses": 1,
+        "losses": 2,
         "ties": 0,
-        "pointsFor": 571.44,
-        "pointsAgainst": 509.24,
+        "pointsFor": 670.7,
+        "pointsAgainst": 614.64,
         "placement": null,
         "madePlayoffs": true,
         "isChampion": false,
-        "streak": "1W"
+        "streak": "1L"
       },
       {
         "rosterId": 9,
@@ -151,14 +151,14 @@
         "displayName": "DucksofAFeather",
         "avatar": "15d7cf259bc30eab8f6120f45f652fb6",
         "wins": 4,
-        "losses": 1,
+        "losses": 2,
         "ties": 0,
-        "pointsFor": 592.14,
-        "pointsAgainst": 498.52,
+        "pointsFor": 693.26,
+        "pointsAgainst": 625.6,
         "placement": null,
         "madePlayoffs": true,
         "isChampion": false,
-        "streak": "2W"
+        "streak": "1L"
       },
       {
         "rosterId": 10,
@@ -167,15 +167,15 @@
         "teamName": "Wagner’s Warriors",
         "displayName": "wagner81",
         "avatar": "982a644cd548948fe56c0b7d3ba8d7c6",
-        "wins": 2,
+        "wins": 3,
         "losses": 3,
         "ties": 0,
-        "pointsFor": 603.38,
-        "pointsAgainst": 552.82,
+        "pointsFor": 730.68,
+        "pointsAgainst": 645.04,
         "placement": null,
         "madePlayoffs": false,
         "isChampion": false,
-        "streak": "2W"
+        "streak": "3W"
       },
       {
         "rosterId": 11,
@@ -184,15 +184,15 @@
         "teamName": "Good News Goofs",
         "displayName": "MasMelas",
         "avatar": "15d7cf259bc30eab8f6120f45f652fb6",
-        "wins": 0,
+        "wins": 1,
         "losses": 5,
         "ties": 0,
-        "pointsFor": 481.38,
-        "pointsAgainst": 602.96,
+        "pointsFor": 586.78,
+        "pointsAgainst": 702.22,
         "placement": null,
         "madePlayoffs": false,
         "isChampion": false,
-        "streak": "5L"
+        "streak": "1W"
       },
       {
         "rosterId": 12,
@@ -202,14 +202,14 @@
         "displayName": "ChuckBlazer",
         "avatar": "17481f42709742e8c6c649e195e52dec",
         "wins": 3,
-        "losses": 2,
+        "losses": 3,
         "ties": 0,
-        "pointsFor": 613.04,
-        "pointsAgainst": 606.98,
+        "pointsFor": 723.38,
+        "pointsAgainst": 738.68,
         "placement": null,
-        "madePlayoffs": true,
+        "madePlayoffs": false,
         "isChampion": false,
-        "streak": "3W"
+        "streak": "1L"
       }
     ],
     "headToHead": [
@@ -428,20 +428,20 @@
         "rosterA": 1,
         "rosterB": 9,
         "scoreA": 127.08,
-        "scoreB": 90.22
+        "scoreB": 101.12
       },
       {
         "week": 6,
         "rosterA": 2,
         "rosterB": 6,
-        "scoreA": 84.3,
+        "scoreA": 101.66,
         "scoreB": 113.84
       },
       {
         "week": 6,
         "rosterA": 3,
         "rosterB": 12,
-        "scoreA": 116.3,
+        "scoreA": 131.7,
         "scoreB": 110.34
       },
       {
@@ -455,15 +455,15 @@
         "week": 6,
         "rosterA": 5,
         "rosterB": 10,
-        "scoreA": 89.02,
-        "scoreB": 113.6
+        "scoreA": 92.22,
+        "scoreB": 127.3
       },
       {
         "week": 6,
         "rosterA": 8,
         "rosterB": 11,
         "scoreA": 99.26,
-        "scoreB": 53.2
+        "scoreB": 105.4
       },
       {
         "week": 7,
