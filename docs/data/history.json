@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T18:58:48.454Z",
+  "generatedAt": "2026-10-27T18:30:08.652Z",
   "sourceLeagueId": "1388349774029164544",
   "seasonsCovered": [
     "2022",
@@ -145,26 +145,26 @@
           "season": "2026",
           "teamName": "The Chase Continues",
           "wins": 3,
-          "losses": 3,
+          "losses": 4,
           "ties": 0,
-          "pointsFor": 723.38,
-          "pointsAgainst": 738.68,
+          "pointsFor": 821.88,
+          "pointsAgainst": 879.72,
           "placement": null,
           "madePlayoffs": false,
           "isChampion": false,
-          "streak": "1L"
+          "streak": "2L"
         }
       ],
       "career": {
         "wins": 21,
-        "losses": 13,
+        "losses": 14,
         "ties": 0,
-        "pointsFor": 4253.24,
-        "pointsAgainst": 3855.64,
+        "pointsFor": 4351.74,
+        "pointsAgainst": 3996.68,
         "championships": 1,
         "playoffAppearances": 2,
-        "gamesPlayed": 34,
-        "winPct": 0.6176
+        "gamesPlayed": 35,
+        "winPct": 0.6
       },
       "seasonsPlayed": 3,
       "bestSeason": {
@@ -184,31 +184,31 @@
         "season": "2026",
         "teamName": "The Chase Continues",
         "wins": 3,
-        "losses": 3,
+        "losses": 4,
         "ties": 0,
-        "pointsFor": 723.38,
-        "pointsAgainst": 738.68,
+        "pointsFor": 821.88,
+        "pointsAgainst": 879.72,
         "placement": null,
         "madePlayoffs": false,
         "isChampion": false,
-        "streak": "1L"
+        "streak": "2L"
       },
       "mostRecentSeason": {
         "season": "2026",
         "teamName": "The Chase Continues",
         "wins": 3,
-        "losses": 3,
+        "losses": 4,
         "ties": 0,
-        "pointsFor": 723.38,
-        "pointsAgainst": 738.68,
+        "pointsFor": 821.88,
+        "pointsAgainst": 879.72,
         "placement": null,
         "madePlayoffs": false,
         "isChampion": false,
-        "streak": "1L"
+        "streak": "2L"
       },
       "currentStreak": {
         "season": "2026",
-        "value": "1L"
+        "value": "2L"
       }
     },
     {
@@ -272,26 +272,26 @@
           "season": "2026",
           "teamName": "Captain Kamaraca",
           "wins": 1,
-          "losses": 5,
+          "losses": 6,
           "ties": 0,
-          "pointsFor": 628.14,
-          "pointsAgainst": 718.9,
+          "pointsFor": 703.06,
+          "pointsAgainst": 834.62,
           "placement": null,
           "madePlayoffs": false,
           "isChampion": false,
-          "streak": "3L"
+          "streak": "4L"
         }
       ],
       "career": {
         "wins": 27,
-        "losses": 35,
+        "losses": 36,
         "ties": 0,
-        "pointsFor": 7107.48,
-        "pointsAgainst": 7133.14,
+        "pointsFor": 7182.4,
+        "pointsAgainst": 7248.86,
         "championships": 1,
         "playoffAppearances": 3,
-        "gamesPlayed": 62,
-        "winPct": 0.4355
+        "gamesPlayed": 63,
+        "winPct": 0.4286
       },
       "seasonsPlayed": 5,
       "bestSeason": {
@@ -324,18 +324,18 @@
         "season": "2026",
         "teamName": "Captain Kamaraca",
         "wins": 1,
-        "losses": 5,
+        "losses": 6,
         "ties": 0,
-        "pointsFor": 628.14,
-        "pointsAgainst": 718.9,
+        "pointsFor": 703.06,
+        "pointsAgainst": 834.62,
         "placement": null,
         "madePlayoffs": false,
         "isChampion": false,
-        "streak": "3L"
+        "streak": "4L"
       },
       "currentStreak": {
         "season": "2026",
-        "value": "3L"
+        "value": "4L"
       }
     },
     {
@@ -385,27 +385,27 @@
         {
           "season": "2026",
           "teamName": "Esposa de Muerte Peluda",
-          "wins": 1,
+          "wins": 2,
           "losses": 5,
           "ties": 0,
-          "pointsFor": 630,
-          "pointsAgainst": 818.02,
+          "pointsFor": 745.72,
+          "pointsAgainst": 892.94,
           "placement": null,
           "madePlayoffs": false,
           "isChampion": false,
-          "streak": "4L"
+          "streak": "1W"
         }
       ],
       "career": {
-        "wins": 20,
+        "wins": 21,
         "losses": 28,
         "ties": 0,
-        "pointsFor": 5398.82,
-        "pointsAgainst": 5404.94,
+        "pointsFor": 5514.54,
+        "pointsAgainst": 5479.86,
         "championships": 1,
         "playoffAppearances": 2,
-        "gamesPlayed": 48,
-        "winPct": 0.4167
+        "gamesPlayed": 49,
+        "winPct": 0.4286
       },
       "seasonsPlayed": 4,
       "bestSeason": {
@@ -424,32 +424,32 @@
       "worstSeason": {
         "season": "2026",
         "teamName": "Esposa de Muerte Peluda",
-        "wins": 1,
+        "wins": 2,
         "losses": 5,
         "ties": 0,
-        "pointsFor": 630,
-        "pointsAgainst": 818.02,
+        "pointsFor": 745.72,
+        "pointsAgainst": 892.94,
         "placement": null,
         "madePlayoffs": false,
         "isChampion": false,
-        "streak": "4L"
+        "streak": "1W"
       },
       "mostRecentSeason": {
         "season": "2026",
         "teamName": "Esposa de Muerte Peluda",
-        "wins": 1,
+        "wins": 2,
         "losses": 5,
         "ties": 0,
-        "pointsFor": 630,
-        "pointsAgainst": 818.02,
+        "pointsFor": 745.72,
+        "pointsAgainst": 892.94,
         "placement": null,
         "madePlayoffs": false,
         "isChampion": false,
-        "streak": "4L"
+        "streak": "1W"
       },
       "currentStreak": {
         "season": "2026",
-        "value": "4L"
+        "value": "1W"
       }
     },
     {
@@ -513,26 +513,26 @@
           "season": "2026",
           "teamName": "Wet with Sweat",
           "wins": 4,
-          "losses": 2,
+          "losses": 3,
           "ties": 0,
-          "pointsFor": 812.26,
-          "pointsAgainst": 677.08,
+          "pointsFor": 910.26,
+          "pointsAgainst": 806.8,
           "placement": null,
           "madePlayoffs": true,
           "isChampion": false,
-          "streak": "1W"
+          "streak": "1L"
         }
       ],
       "career": {
         "wins": 48,
-        "losses": 14,
+        "losses": 15,
         "ties": 0,
-        "pointsFor": 7620.06,
-        "pointsAgainst": 6629.54,
+        "pointsFor": 7718.06,
+        "pointsAgainst": 6759.26,
         "championships": 0,
         "playoffAppearances": 5,
-        "gamesPlayed": 62,
-        "winPct": 0.7742
+        "gamesPlayed": 63,
+        "winPct": 0.7619
       },
       "seasonsPlayed": 5,
       "bestSeason": {
@@ -552,31 +552,31 @@
         "season": "2026",
         "teamName": "Wet with Sweat",
         "wins": 4,
-        "losses": 2,
+        "losses": 3,
         "ties": 0,
-        "pointsFor": 812.26,
-        "pointsAgainst": 677.08,
+        "pointsFor": 910.26,
+        "pointsAgainst": 806.8,
         "placement": null,
         "madePlayoffs": true,
         "isChampion": false,
-        "streak": "1W"
+        "streak": "1L"
       },
       "mostRecentSeason": {
         "season": "2026",
         "teamName": "Wet with Sweat",
         "wins": 4,
-        "losses": 2,
+        "losses": 3,
         "ties": 0,
-        "pointsFor": 812.26,
-        "pointsAgainst": 677.08,
+        "pointsFor": 910.26,
+        "pointsAgainst": 806.8,
         "placement": null,
         "madePlayoffs": true,
         "isChampion": false,
-        "streak": "1W"
+        "streak": "1L"
       },
       "currentStreak": {
         "season": "2026",
-        "value": "1W"
+        "value": "1L"
       }
     },
     {
@@ -587,71 +587,71 @@
         {
           "season": "2026",
           "teamName": "Prestige Worldwide",
-          "wins": 4,
+          "wins": 5,
           "losses": 2,
           "ties": 0,
-          "pointsFor": 694.68,
-          "pointsAgainst": 693.78,
+          "pointsFor": 786.74,
+          "pointsAgainst": 783.7,
           "placement": null,
           "madePlayoffs": true,
           "isChampion": false,
-          "streak": "3W"
+          "streak": "4W"
         }
       ],
       "career": {
-        "wins": 4,
+        "wins": 5,
         "losses": 2,
         "ties": 0,
-        "pointsFor": 694.68,
-        "pointsAgainst": 693.78,
+        "pointsFor": 786.74,
+        "pointsAgainst": 783.7,
         "championships": 0,
         "playoffAppearances": 1,
-        "gamesPlayed": 6,
-        "winPct": 0.6667
+        "gamesPlayed": 7,
+        "winPct": 0.7143
       },
       "seasonsPlayed": 1,
       "bestSeason": {
         "season": "2026",
         "teamName": "Prestige Worldwide",
-        "wins": 4,
+        "wins": 5,
         "losses": 2,
         "ties": 0,
-        "pointsFor": 694.68,
-        "pointsAgainst": 693.78,
+        "pointsFor": 786.74,
+        "pointsAgainst": 783.7,
         "placement": null,
         "madePlayoffs": true,
         "isChampion": false,
-        "streak": "3W"
+        "streak": "4W"
       },
       "worstSeason": {
         "season": "2026",
         "teamName": "Prestige Worldwide",
-        "wins": 4,
+        "wins": 5,
         "losses": 2,
         "ties": 0,
-        "pointsFor": 694.68,
-        "pointsAgainst": 693.78,
+        "pointsFor": 786.74,
+        "pointsAgainst": 783.7,
         "placement": null,
         "madePlayoffs": true,
         "isChampion": false,
-        "streak": "3W"
+        "streak": "4W"
       },
       "mostRecentSeason": {
         "season": "2026",
         "teamName": "Prestige Worldwide",
-        "wins": 4,
+        "wins": 5,
         "losses": 2,
         "ties": 0,
-        "pointsFor": 694.68,
-        "pointsAgainst": 693.78,
+        "pointsFor": 786.74,
+        "pointsAgainst": 783.7,
         "placement": null,
         "madePlayoffs": true,
         "isChampion": false,
-        "streak": "3W"
+        "streak": "4W"
       },
       "currentStreak": {
         "season": "2026",
-        "value": "3W"
+        "value": "4W"
       }
     },
     {
@@ -715,40 +715,40 @@
           "season": "2026",
           "teamName": "La Muerte Peluda",
           "wins": 6,
-          "losses": 0,
+          "losses": 1,
           "ties": 0,
-          "pointsFor": 780.16,
-          "pointsAgainst": 641.68,
+          "pointsFor": 901.54,
+          "pointsAgainst": 765.16,
           "placement": null,
           "madePlayoffs": true,
           "isChampion": false,
-          "streak": "6W"
+          "streak": "1L"
         }
       ],
       "career": {
         "wins": 36,
-        "losses": 26,
+        "losses": 27,
         "ties": 0,
-        "pointsFor": 7319.28,
-        "pointsAgainst": 6874.94,
+        "pointsFor": 7440.66,
+        "pointsAgainst": 6998.42,
         "championships": 0,
         "playoffAppearances": 3,
-        "gamesPlayed": 62,
-        "winPct": 0.5806
+        "gamesPlayed": 63,
+        "winPct": 0.5714
       },
       "seasonsPlayed": 5,
       "bestSeason": {
         "season": "2026",
         "teamName": "La Muerte Peluda",
         "wins": 6,
-        "losses": 0,
+        "losses": 1,
         "ties": 0,
-        "pointsFor": 780.16,
-        "pointsAgainst": 641.68,
+        "pointsFor": 901.54,
+        "pointsAgainst": 765.16,
         "placement": null,
         "madePlayoffs": true,
         "isChampion": false,
-        "streak": "6W"
+        "streak": "1L"
       },
       "worstSeason": {
         "season": "2024",
@@ -767,145 +767,194 @@
         "season": "2026",
         "teamName": "La Muerte Peluda",
         "wins": 6,
-        "losses": 0,
+        "losses": 1,
         "ties": 0,
-        "pointsFor": 780.16,
-        "pointsAgainst": 641.68,
+        "pointsFor": 901.54,
+        "pointsAgainst": 765.16,
         "placement": null,
         "madePlayoffs": true,
         "isChampion": false,
-        "streak": "6W"
+        "streak": "1L"
       },
       "currentStreak": {
         "season": "2026",
-        "value": "6W"
+        "value": "1L"
       }
     },
     {
-      "id": "869290352429924352",
-      "displayName": "spena",
-      "avatar": "82aec8e811b839b8ec25d7b458afd57b",
+      "id": "721963492252385280",
+      "displayName": "wagner81",
+      "avatar": "982a644cd548948fe56c0b7d3ba8d7c6",
       "seasons": [
         {
-          "season": "2022",
-          "teamName": null,
-          "wins": 6,
-          "losses": 8,
-          "ties": 0,
-          "pointsFor": 1602.06,
-          "pointsAgainst": 1548.14,
-          "placement": 5,
-          "madePlayoffs": true,
-          "isChampion": false,
-          "streak": "3L"
-        },
-        {
-          "season": "2023",
-          "teamName": null,
-          "wins": 10,
-          "losses": 4,
-          "ties": 0,
-          "pointsFor": 1614.78,
-          "pointsAgainst": 1513.28,
-          "placement": 3,
-          "madePlayoffs": true,
-          "isChampion": false,
-          "streak": "2W"
-        },
-        {
-          "season": "2024",
-          "teamName": null,
-          "wins": 8,
-          "losses": 6,
-          "ties": 0,
-          "pointsFor": 1743.34,
-          "pointsAgainst": 1657.34,
-          "placement": 5,
-          "madePlayoffs": true,
-          "isChampion": false,
-          "streak": "2W"
-        },
-        {
           "season": "2025",
-          "teamName": null,
-          "wins": 4,
-          "losses": 10,
+          "teamName": "Wagner’s Warriors",
+          "wins": 7,
+          "losses": 7,
           "ties": 0,
-          "pointsFor": 1475.96,
-          "pointsAgainst": 1779.54,
-          "placement": 12,
+          "pointsFor": 1562.06,
+          "pointsAgainst": 1641.34,
+          "placement": 8,
           "madePlayoffs": false,
           "isChampion": false,
-          "streak": "1L"
+          "streak": "1W"
         },
         {
           "season": "2026",
-          "teamName": "general ruckus",
-          "wins": 3,
+          "teamName": "Wagner’s Warriors",
+          "wins": 4,
           "losses": 3,
           "ties": 0,
-          "pointsFor": 733.1,
-          "pointsAgainst": 721.74,
+          "pointsFor": 871.72,
+          "pointsAgainst": 743.54,
           "placement": null,
           "madePlayoffs": true,
           "isChampion": false,
-          "streak": "2L"
+          "streak": "4W"
         }
       ],
       "career": {
-        "wins": 31,
-        "losses": 31,
+        "wins": 11,
+        "losses": 10,
         "ties": 0,
-        "pointsFor": 7169.24,
-        "pointsAgainst": 7220.04,
+        "pointsFor": 2433.78,
+        "pointsAgainst": 2384.88,
         "championships": 0,
-        "playoffAppearances": 4,
-        "gamesPlayed": 62,
-        "winPct": 0.5
+        "playoffAppearances": 1,
+        "gamesPlayed": 21,
+        "winPct": 0.5238
       },
-      "seasonsPlayed": 5,
+      "seasonsPlayed": 2,
       "bestSeason": {
-        "season": "2023",
-        "teamName": null,
-        "wins": 10,
-        "losses": 4,
+        "season": "2026",
+        "teamName": "Wagner’s Warriors",
+        "wins": 4,
+        "losses": 3,
         "ties": 0,
-        "pointsFor": 1614.78,
-        "pointsAgainst": 1513.28,
-        "placement": 3,
+        "pointsFor": 871.72,
+        "pointsAgainst": 743.54,
+        "placement": null,
+        "madePlayoffs": true,
+        "isChampion": false,
+        "streak": "4W"
+      },
+      "worstSeason": {
+        "season": "2025",
+        "teamName": "Wagner’s Warriors",
+        "wins": 7,
+        "losses": 7,
+        "ties": 0,
+        "pointsFor": 1562.06,
+        "pointsAgainst": 1641.34,
+        "placement": 8,
+        "madePlayoffs": false,
+        "isChampion": false,
+        "streak": "1W"
+      },
+      "mostRecentSeason": {
+        "season": "2026",
+        "teamName": "Wagner’s Warriors",
+        "wins": 4,
+        "losses": 3,
+        "ties": 0,
+        "pointsFor": 871.72,
+        "pointsAgainst": 743.54,
+        "placement": null,
+        "madePlayoffs": true,
+        "isChampion": false,
+        "streak": "4W"
+      },
+      "currentStreak": {
+        "season": "2026",
+        "value": "4W"
+      }
+    },
+    {
+      "id": "1026229879408320512",
+      "displayName": "MasMelas",
+      "avatar": "15d7cf259bc30eab8f6120f45f652fb6",
+      "seasons": [
+        {
+          "season": "2025",
+          "teamName": "Good News Goofs",
+          "wins": 9,
+          "losses": 5,
+          "ties": 0,
+          "pointsFor": 1591.28,
+          "pointsAgainst": 1579.1,
+          "placement": 4,
+          "madePlayoffs": true,
+          "isChampion": false,
+          "streak": "2W"
+        },
+        {
+          "season": "2026",
+          "teamName": "Good News Goofs",
+          "wins": 2,
+          "losses": 5,
+          "ties": 0,
+          "pointsFor": 716.5,
+          "pointsAgainst": 800.22,
+          "placement": null,
+          "madePlayoffs": false,
+          "isChampion": false,
+          "streak": "2W"
+        }
+      ],
+      "career": {
+        "wins": 11,
+        "losses": 10,
+        "ties": 0,
+        "pointsFor": 2307.78,
+        "pointsAgainst": 2379.32,
+        "championships": 0,
+        "playoffAppearances": 1,
+        "gamesPlayed": 21,
+        "winPct": 0.5238
+      },
+      "seasonsPlayed": 2,
+      "bestSeason": {
+        "season": "2025",
+        "teamName": "Good News Goofs",
+        "wins": 9,
+        "losses": 5,
+        "ties": 0,
+        "pointsFor": 1591.28,
+        "pointsAgainst": 1579.1,
+        "placement": 4,
         "madePlayoffs": true,
         "isChampion": false,
         "streak": "2W"
       },
       "worstSeason": {
-        "season": "2025",
-        "teamName": null,
-        "wins": 4,
-        "losses": 10,
+        "season": "2026",
+        "teamName": "Good News Goofs",
+        "wins": 2,
+        "losses": 5,
         "ties": 0,
-        "pointsFor": 1475.96,
-        "pointsAgainst": 1779.54,
-        "placement": 12,
+        "pointsFor": 716.5,
+        "pointsAgainst": 800.22,
+        "placement": null,
         "madePlayoffs": false,
         "isChampion": false,
-        "streak": "1L"
+        "streak": "2W"
       },
       "mostRecentSeason": {
         "season": "2026",
-        "teamName": "general ruckus",
-        "wins": 3,
-        "losses": 3,
+        "teamName": "Good News Goofs",
+        "wins": 2,
+        "losses": 5,
         "ties": 0,
-        "pointsFor": 733.1,
-        "pointsAgainst": 721.74,
+        "pointsFor": 716.5,
+        "pointsAgainst": 800.22,
         "placement": null,
-        "madePlayoffs": true,
+        "madePlayoffs": false,
         "isChampion": false,
-        "streak": "2L"
+        "streak": "2W"
       },
       "currentStreak": {
         "season": "2026",
-        "value": "2L"
+        "value": "2W"
       }
     },
     {
@@ -1160,179 +1209,130 @@
       }
     },
     {
-      "id": "721963492252385280",
-      "displayName": "wagner81",
-      "avatar": "982a644cd548948fe56c0b7d3ba8d7c6",
+      "id": "869290352429924352",
+      "displayName": "spena",
+      "avatar": "82aec8e811b839b8ec25d7b458afd57b",
       "seasons": [
         {
-          "season": "2025",
-          "teamName": "Wagner’s Warriors",
-          "wins": 7,
-          "losses": 7,
+          "season": "2022",
+          "teamName": null,
+          "wins": 6,
+          "losses": 8,
           "ties": 0,
-          "pointsFor": 1562.06,
-          "pointsAgainst": 1641.34,
-          "placement": 8,
-          "madePlayoffs": false,
+          "pointsFor": 1602.06,
+          "pointsAgainst": 1548.14,
+          "placement": 5,
+          "madePlayoffs": true,
           "isChampion": false,
-          "streak": "1W"
+          "streak": "3L"
         },
         {
-          "season": "2026",
-          "teamName": "Wagner’s Warriors",
-          "wins": 3,
-          "losses": 3,
+          "season": "2023",
+          "teamName": null,
+          "wins": 10,
+          "losses": 4,
           "ties": 0,
-          "pointsFor": 730.68,
-          "pointsAgainst": 645.04,
-          "placement": null,
-          "madePlayoffs": false,
-          "isChampion": false,
-          "streak": "3W"
-        }
-      ],
-      "career": {
-        "wins": 10,
-        "losses": 10,
-        "ties": 0,
-        "pointsFor": 2292.74,
-        "pointsAgainst": 2286.38,
-        "championships": 0,
-        "playoffAppearances": 0,
-        "gamesPlayed": 20,
-        "winPct": 0.5
-      },
-      "seasonsPlayed": 2,
-      "bestSeason": {
-        "season": "2025",
-        "teamName": "Wagner’s Warriors",
-        "wins": 7,
-        "losses": 7,
-        "ties": 0,
-        "pointsFor": 1562.06,
-        "pointsAgainst": 1641.34,
-        "placement": 8,
-        "madePlayoffs": false,
-        "isChampion": false,
-        "streak": "1W"
-      },
-      "worstSeason": {
-        "season": "2026",
-        "teamName": "Wagner’s Warriors",
-        "wins": 3,
-        "losses": 3,
-        "ties": 0,
-        "pointsFor": 730.68,
-        "pointsAgainst": 645.04,
-        "placement": null,
-        "madePlayoffs": false,
-        "isChampion": false,
-        "streak": "3W"
-      },
-      "mostRecentSeason": {
-        "season": "2026",
-        "teamName": "Wagner’s Warriors",
-        "wins": 3,
-        "losses": 3,
-        "ties": 0,
-        "pointsFor": 730.68,
-        "pointsAgainst": 645.04,
-        "placement": null,
-        "madePlayoffs": false,
-        "isChampion": false,
-        "streak": "3W"
-      },
-      "currentStreak": {
-        "season": "2026",
-        "value": "3W"
-      }
-    },
-    {
-      "id": "1026229879408320512",
-      "displayName": "MasMelas",
-      "avatar": "15d7cf259bc30eab8f6120f45f652fb6",
-      "seasons": [
-        {
-          "season": "2025",
-          "teamName": "Good News Goofs",
-          "wins": 9,
-          "losses": 5,
-          "ties": 0,
-          "pointsFor": 1591.28,
-          "pointsAgainst": 1579.1,
-          "placement": 4,
+          "pointsFor": 1614.78,
+          "pointsAgainst": 1513.28,
+          "placement": 3,
           "madePlayoffs": true,
           "isChampion": false,
           "streak": "2W"
         },
         {
-          "season": "2026",
-          "teamName": "Good News Goofs",
-          "wins": 1,
-          "losses": 5,
+          "season": "2024",
+          "teamName": null,
+          "wins": 8,
+          "losses": 6,
           "ties": 0,
-          "pointsFor": 586.78,
-          "pointsAgainst": 702.22,
+          "pointsFor": 1743.34,
+          "pointsAgainst": 1657.34,
+          "placement": 5,
+          "madePlayoffs": true,
+          "isChampion": false,
+          "streak": "2W"
+        },
+        {
+          "season": "2025",
+          "teamName": null,
+          "wins": 4,
+          "losses": 10,
+          "ties": 0,
+          "pointsFor": 1475.96,
+          "pointsAgainst": 1779.54,
+          "placement": 12,
+          "madePlayoffs": false,
+          "isChampion": false,
+          "streak": "1L"
+        },
+        {
+          "season": "2026",
+          "teamName": "general ruckus",
+          "wins": 3,
+          "losses": 4,
+          "ties": 0,
+          "pointsFor": 823.02,
+          "pointsAgainst": 813.8,
           "placement": null,
           "madePlayoffs": false,
           "isChampion": false,
-          "streak": "1W"
+          "streak": "3L"
         }
       ],
       "career": {
-        "wins": 10,
-        "losses": 10,
+        "wins": 31,
+        "losses": 32,
         "ties": 0,
-        "pointsFor": 2178.06,
-        "pointsAgainst": 2281.32,
+        "pointsFor": 7259.16,
+        "pointsAgainst": 7312.1,
         "championships": 0,
-        "playoffAppearances": 1,
-        "gamesPlayed": 20,
-        "winPct": 0.5
+        "playoffAppearances": 3,
+        "gamesPlayed": 63,
+        "winPct": 0.4921
       },
-      "seasonsPlayed": 2,
+      "seasonsPlayed": 5,
       "bestSeason": {
-        "season": "2025",
-        "teamName": "Good News Goofs",
-        "wins": 9,
-        "losses": 5,
+        "season": "2023",
+        "teamName": null,
+        "wins": 10,
+        "losses": 4,
         "ties": 0,
-        "pointsFor": 1591.28,
-        "pointsAgainst": 1579.1,
-        "placement": 4,
+        "pointsFor": 1614.78,
+        "pointsAgainst": 1513.28,
+        "placement": 3,
         "madePlayoffs": true,
         "isChampion": false,
         "streak": "2W"
       },
       "worstSeason": {
-        "season": "2026",
-        "teamName": "Good News Goofs",
-        "wins": 1,
-        "losses": 5,
+        "season": "2025",
+        "teamName": null,
+        "wins": 4,
+        "losses": 10,
         "ties": 0,
-        "pointsFor": 586.78,
-        "pointsAgainst": 702.22,
-        "placement": null,
+        "pointsFor": 1475.96,
+        "pointsAgainst": 1779.54,
+        "placement": 12,
         "madePlayoffs": false,
         "isChampion": false,
-        "streak": "1W"
+        "streak": "1L"
       },
       "mostRecentSeason": {
         "season": "2026",
-        "teamName": "Good News Goofs",
-        "wins": 1,
-        "losses": 5,
+        "teamName": "general ruckus",
+        "wins": 3,
+        "losses": 4,
         "ties": 0,
-        "pointsFor": 586.78,
-        "pointsAgainst": 702.22,
+        "pointsFor": 823.02,
+        "pointsAgainst": 813.8,
         "placement": null,
         "madePlayoffs": false,
         "isChampion": false,
-        "streak": "1W"
+        "streak": "3L"
       },
       "currentStreak": {
         "season": "2026",
-        "value": "1W"
+        "value": "3L"
       }
     },
     {
@@ -1396,26 +1396,26 @@
           "season": "2026",
           "teamName": "Mcbridesmaids",
           "wins": 4,
-          "losses": 2,
+          "losses": 3,
           "ties": 0,
-          "pointsFor": 670.7,
-          "pointsAgainst": 614.64,
+          "pointsFor": 776.98,
+          "pointsAgainst": 732.56,
           "placement": null,
           "madePlayoffs": true,
           "isChampion": false,
-          "streak": "1L"
+          "streak": "2L"
         }
       ],
       "career": {
         "wins": 30,
-        "losses": 32,
+        "losses": 33,
         "ties": 0,
-        "pointsFor": 6877.62,
-        "pointsAgainst": 6946.9,
+        "pointsFor": 6983.9,
+        "pointsAgainst": 7064.82,
         "championships": 0,
         "playoffAppearances": 3,
-        "gamesPlayed": 62,
-        "winPct": 0.4839
+        "gamesPlayed": 63,
+        "winPct": 0.4762
       },
       "seasonsPlayed": 5,
       "bestSeason": {
@@ -1448,18 +1448,18 @@
         "season": "2026",
         "teamName": "Mcbridesmaids",
         "wins": 4,
-        "losses": 2,
+        "losses": 3,
         "ties": 0,
-        "pointsFor": 670.7,
-        "pointsAgainst": 614.64,
+        "pointsFor": 776.98,
+        "pointsAgainst": 732.56,
         "placement": null,
         "madePlayoffs": true,
         "isChampion": false,
-        "streak": "1L"
+        "streak": "2L"
       },
       "currentStreak": {
         "season": "2026",
-        "value": "1L"
+        "value": "2L"
       }
     },
     {
@@ -1538,6 +1538,133 @@
       }
     },
     {
+      "id": "699405229212377088",
+      "displayName": "SoySauceLife",
+      "avatar": "8eb8f8bf999945d523f2c4033f70473e",
+      "seasons": [
+        {
+          "season": "2022",
+          "teamName": "Koo Koo 4 Koo",
+          "wins": 4,
+          "losses": 10,
+          "ties": 0,
+          "pointsFor": 1502.92,
+          "pointsAgainst": 1747.92,
+          "placement": 9,
+          "madePlayoffs": false,
+          "isChampion": false,
+          "streak": "1W"
+        },
+        {
+          "season": "2023",
+          "teamName": "Koo Koo 4 Koo",
+          "wins": 7,
+          "losses": 7,
+          "ties": 0,
+          "pointsFor": 1684.62,
+          "pointsAgainst": 1590.06,
+          "placement": 7,
+          "madePlayoffs": false,
+          "isChampion": false,
+          "streak": "1L"
+        },
+        {
+          "season": "2024",
+          "teamName": "Will you be McBride?",
+          "wins": 7,
+          "losses": 7,
+          "ties": 0,
+          "pointsFor": 1437.72,
+          "pointsAgainst": 1580.64,
+          "placement": 7,
+          "madePlayoffs": false,
+          "isChampion": false,
+          "streak": "4L"
+        },
+        {
+          "season": "2025",
+          "teamName": "Koo Koo 4 Koo",
+          "wins": 6,
+          "losses": 8,
+          "ties": 0,
+          "pointsFor": 1652.68,
+          "pointsAgainst": 1657.06,
+          "placement": 7,
+          "madePlayoffs": false,
+          "isChampion": false,
+          "streak": "2W"
+        },
+        {
+          "season": "2026",
+          "teamName": "McConkey Kong",
+          "wins": 3,
+          "losses": 4,
+          "ties": 0,
+          "pointsFor": 731.68,
+          "pointsAgainst": 805.8,
+          "placement": null,
+          "madePlayoffs": false,
+          "isChampion": false,
+          "streak": "2W"
+        }
+      ],
+      "career": {
+        "wins": 27,
+        "losses": 36,
+        "ties": 0,
+        "pointsFor": 7009.62,
+        "pointsAgainst": 7381.48,
+        "championships": 0,
+        "playoffAppearances": 0,
+        "gamesPlayed": 63,
+        "winPct": 0.4286
+      },
+      "seasonsPlayed": 5,
+      "bestSeason": {
+        "season": "2023",
+        "teamName": "Koo Koo 4 Koo",
+        "wins": 7,
+        "losses": 7,
+        "ties": 0,
+        "pointsFor": 1684.62,
+        "pointsAgainst": 1590.06,
+        "placement": 7,
+        "madePlayoffs": false,
+        "isChampion": false,
+        "streak": "1L"
+      },
+      "worstSeason": {
+        "season": "2022",
+        "teamName": "Koo Koo 4 Koo",
+        "wins": 4,
+        "losses": 10,
+        "ties": 0,
+        "pointsFor": 1502.92,
+        "pointsAgainst": 1747.92,
+        "placement": 9,
+        "madePlayoffs": false,
+        "isChampion": false,
+        "streak": "1W"
+      },
+      "mostRecentSeason": {
+        "season": "2026",
+        "teamName": "McConkey Kong",
+        "wins": 3,
+        "losses": 4,
+        "ties": 0,
+        "pointsFor": 731.68,
+        "pointsAgainst": 805.8,
+        "placement": null,
+        "madePlayoffs": false,
+        "isChampion": false,
+        "streak": "2W"
+      },
+      "currentStreak": {
+        "season": "2026",
+        "value": "2W"
+      }
+    },
+    {
       "id": "869330635821621248",
       "displayName": "JustForTheHallavant",
       "avatar": "f0edbf4278f53f9425db175073df6584",
@@ -1609,133 +1736,6 @@
       },
       "currentStreak": {
         "season": "2022",
-        "value": "1W"
-      }
-    },
-    {
-      "id": "699405229212377088",
-      "displayName": "SoySauceLife",
-      "avatar": "8eb8f8bf999945d523f2c4033f70473e",
-      "seasons": [
-        {
-          "season": "2022",
-          "teamName": "Koo Koo 4 Koo",
-          "wins": 4,
-          "losses": 10,
-          "ties": 0,
-          "pointsFor": 1502.92,
-          "pointsAgainst": 1747.92,
-          "placement": 9,
-          "madePlayoffs": false,
-          "isChampion": false,
-          "streak": "1W"
-        },
-        {
-          "season": "2023",
-          "teamName": "Koo Koo 4 Koo",
-          "wins": 7,
-          "losses": 7,
-          "ties": 0,
-          "pointsFor": 1684.62,
-          "pointsAgainst": 1590.06,
-          "placement": 7,
-          "madePlayoffs": false,
-          "isChampion": false,
-          "streak": "1L"
-        },
-        {
-          "season": "2024",
-          "teamName": "Will you be McBride?",
-          "wins": 7,
-          "losses": 7,
-          "ties": 0,
-          "pointsFor": 1437.72,
-          "pointsAgainst": 1580.64,
-          "placement": 7,
-          "madePlayoffs": false,
-          "isChampion": false,
-          "streak": "4L"
-        },
-        {
-          "season": "2025",
-          "teamName": "Koo Koo 4 Koo",
-          "wins": 6,
-          "losses": 8,
-          "ties": 0,
-          "pointsFor": 1652.68,
-          "pointsAgainst": 1657.06,
-          "placement": 7,
-          "madePlayoffs": false,
-          "isChampion": false,
-          "streak": "2W"
-        },
-        {
-          "season": "2026",
-          "teamName": "McConkey Kong",
-          "wins": 2,
-          "losses": 4,
-          "ties": 0,
-          "pointsFor": 613.76,
-          "pointsAgainst": 699.52,
-          "placement": null,
-          "madePlayoffs": false,
-          "isChampion": false,
-          "streak": "1W"
-        }
-      ],
-      "career": {
-        "wins": 26,
-        "losses": 36,
-        "ties": 0,
-        "pointsFor": 6891.7,
-        "pointsAgainst": 7275.2,
-        "championships": 0,
-        "playoffAppearances": 0,
-        "gamesPlayed": 62,
-        "winPct": 0.4194
-      },
-      "seasonsPlayed": 5,
-      "bestSeason": {
-        "season": "2023",
-        "teamName": "Koo Koo 4 Koo",
-        "wins": 7,
-        "losses": 7,
-        "ties": 0,
-        "pointsFor": 1684.62,
-        "pointsAgainst": 1590.06,
-        "placement": 7,
-        "madePlayoffs": false,
-        "isChampion": false,
-        "streak": "1L"
-      },
-      "worstSeason": {
-        "season": "2022",
-        "teamName": "Koo Koo 4 Koo",
-        "wins": 4,
-        "losses": 10,
-        "ties": 0,
-        "pointsFor": 1502.92,
-        "pointsAgainst": 1747.92,
-        "placement": 9,
-        "madePlayoffs": false,
-        "isChampion": false,
-        "streak": "1W"
-      },
-      "mostRecentSeason": {
-        "season": "2026",
-        "teamName": "McConkey Kong",
-        "wins": 2,
-        "losses": 4,
-        "ties": 0,
-        "pointsFor": 613.76,
-        "pointsAgainst": 699.52,
-        "placement": null,
-        "madePlayoffs": false,
-        "isChampion": false,
-        "streak": "1W"
-      },
-      "currentStreak": {
-        "season": "2026",
         "value": "1W"
       }
     },
@@ -1848,41 +1848,41 @@
         {
           "season": "2026",
           "teamName": "Puka n Rally",
-          "wins": 4,
+          "wins": 5,
           "losses": 2,
           "ties": 0,
-          "pointsFor": 693.26,
-          "pointsAgainst": 625.6,
+          "pointsFor": 816.74,
+          "pointsAgainst": 746.98,
           "placement": null,
           "madePlayoffs": true,
           "isChampion": false,
-          "streak": "1L"
+          "streak": "1W"
         }
       ],
       "career": {
-        "wins": 6,
+        "wins": 7,
         "losses": 14,
         "ties": 0,
-        "pointsFor": 2061.2,
-        "pointsAgainst": 2322.64,
+        "pointsFor": 2184.68,
+        "pointsAgainst": 2444.02,
         "championships": 0,
         "playoffAppearances": 1,
-        "gamesPlayed": 20,
-        "winPct": 0.3
+        "gamesPlayed": 21,
+        "winPct": 0.3333
       },
       "seasonsPlayed": 2,
       "bestSeason": {
         "season": "2026",
         "teamName": "Puka n Rally",
-        "wins": 4,
+        "wins": 5,
         "losses": 2,
         "ties": 0,
-        "pointsFor": 693.26,
-        "pointsAgainst": 625.6,
+        "pointsFor": 816.74,
+        "pointsAgainst": 746.98,
         "placement": null,
         "madePlayoffs": true,
         "isChampion": false,
-        "streak": "1L"
+        "streak": "1W"
       },
       "worstSeason": {
         "season": "2025",
@@ -1900,19 +1900,19 @@
       "mostRecentSeason": {
         "season": "2026",
         "teamName": "Puka n Rally",
-        "wins": 4,
+        "wins": 5,
         "losses": 2,
         "ties": 0,
-        "pointsFor": 693.26,
-        "pointsAgainst": 625.6,
+        "pointsFor": 816.74,
+        "pointsAgainst": 746.98,
         "placement": null,
         "madePlayoffs": true,
         "isChampion": false,
-        "streak": "1L"
+        "streak": "1W"
       },
       "currentStreak": {
         "season": "2026",
-        "value": "1L"
+        "value": "1W"
       }
     },
     {
@@ -2612,8 +2612,8 @@
         "ties": 1
       },
       "1255661919939874816": {
-        "wins": 1,
-        "losses": 0,
+        "wins": 0,
+        "losses": 1,
         "ties": 0
       }
     },
@@ -2736,8 +2736,8 @@
         "ties": 0
       },
       "868334811373277184": {
-        "wins": 4,
-        "losses": 2,
+        "wins": 5,
+        "losses": 1,
         "ties": 0
       },
       "868907495270322176": {
@@ -2890,8 +2890,8 @@
         "ties": 0
       },
       "699405229212377088": {
-        "wins": 2,
-        "losses": 4,
+        "wins": 1,
+        "losses": 5,
         "ties": 0
       },
       "870731702706946048": {
@@ -3493,8 +3493,8 @@
         "ties": 0
       },
       "869290352429924352": {
-        "wins": 0,
-        "losses": 1,
+        "wins": 1,
+        "losses": 0,
         "ties": 0
       },
       "1128117893658513408": {
