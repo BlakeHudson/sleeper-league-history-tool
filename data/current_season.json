@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-28T18:36:20.697Z",
+  "generatedAt": "2026-10-29T18:45:05.522Z",
   "sourceLeagueId": "1388349774029164544",
   "season": {
     "season": "2026",
@@ -51,7 +51,7 @@
         "wins": 6,
         "losses": 1,
         "ties": 0,
-        "pointsFor": 901.54,
+        "pointsFor": 902.54,
         "pointsAgainst": 765.16,
         "placement": null,
         "madePlayoffs": true,
@@ -154,7 +154,7 @@
         "losses": 2,
         "ties": 0,
         "pointsFor": 816.74,
-        "pointsAgainst": 746.98,
+        "pointsAgainst": 747.98,
         "placement": null,
         "madePlayoffs": true,
         "isChampion": false,
@@ -483,7 +483,7 @@
         "week": 7,
         "rosterA": 3,
         "rosterB": 9,
-        "scoreA": 121.38,
+        "scoreA": 122.38,
         "scoreB": 123.48
       },
       {
