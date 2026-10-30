@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-29T18:45:05.522Z",
+  "generatedAt": "2026-10-30T18:22:08.419Z",
   "sourceLeagueId": "1388349774029164544",
   "season": {
     "season": "2026",
@@ -525,22 +525,22 @@
         "week": 8,
         "rosterA": 3,
         "rosterB": 11,
-        "scoreA": 0,
+        "scoreA": 13.3,
         "scoreB": 0
       },
       {
         "week": 8,
         "rosterA": 4,
         "rosterB": 5,
-        "scoreA": 0,
-        "scoreB": 0
+        "scoreA": 20.2,
+        "scoreB": 35.7
       },
       {
         "week": 8,
         "rosterA": 6,
         "rosterB": 12,
-        "scoreA": 0,
-        "scoreB": 0
+        "scoreA": 26.2,
+        "scoreB": 8.6
       },
       {
         "week": 8,
